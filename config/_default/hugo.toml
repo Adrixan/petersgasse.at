@@ -1,0 +1,72 @@
+title = "BRG Petersgasse"
+baseURL = ""
+languageCode = "de"
+theme = ["anatole"]
+DefaultContentLanguage = "DE"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+[languages]
+[languages.de]
+title = "BRG Petersgasse"
+contentDir = "content/de"
+languageName = "DE"
+weight = 1
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+displayMode = "dark"
+disableThemeSwitcher = true
+doNotLoadAnimations = true
+contentratio = 0.7
+reversepagetitle = true
+author = "BRG Petersgasse"
+description = "Petersgasse 110, 8010 Graz"
+profilePicture = "images/logo.png"
+singleDateFormat = "2/1/2006"
+indexDateFormat = "2/1/2006"
+listDateFormat = "2/1/2006"
+disableTitleCapitalization = true
+# have static homepage
+mainSections = []
+# example ["css/custom.css"]
+customCss = ["css/styles.css", "https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css"]
+customJS = ["https://code.jquery.com/jquery-3.7.1.js", "https://cdn.datatables.net/2.2.2/js/dataTables.js"]
+
+# for the blog
+# show full content of each post
+fullPostContent = true
+# have the whole post in our RSS feed
+rssFullContent = true
+# have RSS only for our blog
+[outputs]
+  home = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:sekretariat@petersgasse.at"
+
+[[params.socialIcons]]
+icon = "fas fa-phone"
+title = "telefon"
+url = "tel:+4350248017"
+
+[[params.socialIcons]]
+icon = "fas fa-fax"
+title = "fax"
+url = "tel:+4350248017999"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true

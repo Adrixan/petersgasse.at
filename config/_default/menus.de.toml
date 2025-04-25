@@ -1,0 +1,171 @@
+[[main]]
+name = "Start"
+identifier = "start"
+pageRef = "/"
+weight = 100
+
+[[main]]
+name = "Blog"
+identifier = "blog"
+url = "/blog/"
+weight = 200
+
+[[main]]
+name = "Vorstellung"
+identifier = "vorstellung"
+url = "/vorstellung/"
+weight = 300
+
+[[main]]
+name = "Nachmittagsbetreuung"
+identifier = "nachmittagsbetreuung"
+weight = 400
+[[main]]
+name = "Allgemeine Informationen"
+identifier = "allgemeine-informationen"
+url = "/nachmittagsbetreuung/allgemeine-information/"
+parent = "nachmittagsbetreuung"
+weight = 410
+[[main]]
+name = "Ablauf"
+identifier = "ablauf"
+parent = "nachmittagsbetreuung"
+url = "/nachmittagsbetreuung/ablauf/"
+weight = 420
+[[main]]
+name = "Eindrücke"
+identifier = "eindruecke"
+parent = "nachmittagsbetreuung"
+url = "/nachmittagsbetreuung/eindruecke/"
+weight = 430
+[[main]]
+name = "Kosten"
+identifier = "kosten"
+parent = "nachmittagsbetreuung"
+url = "/nachmittagsbetreuung/kosten/"
+weight = 440
+[[main]]
+name = "Team"
+identifier = "team"
+parent = "nachmittagsbetreuung"
+url = "/nachmittagsbetreuung/team/"
+weight = 450
+[[main]]
+name = "Verpflegung"
+identifier = "verpflegung"
+parent = "nachmittagsbetreuung"
+url = "/nachmittagsbetreuung/verpflegung/"
+weight = 460
+
+[[main]]
+name = "Schule"
+identifier = "schule"
+weight = 500
+[[main]]
+name = "Unsere Schule"
+identifier = "die-schule"
+parent = "schule"
+url = "/schule/die-schule/"
+weight = 510
+[[main]]
+name = "Erreichbarkeit"
+identifier = "erreichbarkeit"
+parent = "schule"
+url = "/schule/erreichbarkeit/"
+weight = 520
+[[main]]
+name = "Kurssystem"
+identifier = "kurssystem"
+parent = "schule"
+url = "/schule/kurssystem/"
+weight = 530
+[[main]]
+name = "Personen"
+identifier = "personen"
+parent = "schule"
+url = "/schule/personen/"
+weight = 540
+[[main]]
+name = "Schulprofil"
+identifier = "schulprofil"
+parent = "schule"
+url = "/schule/schulprofil/"
+weight = 550
+[[main]]
+name = "Schulverein"
+identifier = "schulverein"
+parent = "schule"
+url = "/schule/schulverein/"
+weight = 560
+
+[[main]]
+name = "Vorstellung"
+identifier = "vorstellung"
+url = "/vorstellung/"
+weight = 600
+[[main]]
+name = "Wir stellen uns vor"
+identifier = "vorstellung-intro"
+parent = "vorstellung"
+url = "/vorstellung/intro/"
+weight = 611
+[[main]]
+name = "Geisteswissenschaften"
+identifier = "geisteswissenschaften"
+parent = "vorstellung"
+url = "/vorstellung/geisteswissenschaften/"
+weight = 610
+[[main]]
+name = "Informatik"
+identifier = "informatik"
+parent = "vorstellung"
+url = "/vorstellung/informatik/"
+weight = 620
+[[main]]
+name = "Kreativität"
+identifier = "kreativitaet"
+parent = "vorstellung"
+url = "/vorstellung/kreativitaet/"
+weight = 630
+[[main]]
+name = "Naturwissenschaften"
+identifier = "naturwissenschaften"
+parent = "vorstellung"
+url = "/vorstellung/naturwissenschaften/"
+weight = 640
+#[[main]]
+#name = "Religion"
+#identifier = "religion"
+#parent = "vorstellung"
+#url = "/vorstellung/religion/"
+#weight = 650
+[[main]]
+name = "Soziales"
+identifier = "soziales"
+parent = "vorstellung"
+url = "/vorstellung/soziales/"
+weight = 660
+[[main]]
+name = "Sport"
+identifier = "sport"
+parent = "vorstellung"
+url = "/vorstellung/sport/"
+weight = 670
+[[main]]
+name = "Sprachen"
+identifier = "sprachen"
+parent = "vorstellung"
+url = "/vorstellung/sprachen/"
+weight = 680
+[[main]]
+name = "VOL"
+identifier = "vol"
+parent = "vorstellung"
+url = "/vorstellung/vol/"
+weight = 690
+
+[[main]]
+name = "Impressum"
+identifier = "impressum"
+url = "/impressum/"
+weight = 700
