@@ -1,7 +1,7 @@
 
 +++
 identifier = "personen"
-date = "2025-04-25"
+date = "2025-04-28"
 draft = false
 +++
 {{< rawhtml >}}
@@ -287,7 +287,7 @@ draft = false
             </tr>
         
             <tr>
-                <td><a href=/schule/personal/lena fiona-keber/>Mag.a Lena Fiona Keber </a></td>
+                <td><a href=/schule/personal/lena-fiona-keber/>Mag.a Lena Fiona Keber </a></td>
                 <td>Montag</td>
                 <td>11:25-12:15</td>
                 <td>1B</td>

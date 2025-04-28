@@ -1,9 +1,11 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f8ed4fadaa0>-<built-in method lower of str object at 0x7f8ed4ff4a70>"
-date = "2025-04-25"
+identifier = "<built-in method lower of str object at 0x7fd126d9ed30>-<built-in method lower of str object at 0x7fd126df4e70>"
+date = "2025-04-28"
 draft = false
 +++
+
+ [Zurück zur Übersicht](/schule/personen/)
 
 <div class="row">
 <div class="column">
