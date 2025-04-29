@@ -1,5 +1,5 @@
 title = "BRG Petersgasse"
-baseURL = ""
+baseURL = "https://www.petersgasse.at"
 languageCode = "de"
 theme = ["anatole"]
 DefaultContentLanguage = "DE"
@@ -36,7 +36,7 @@ disableTitleCapitalization = true
 # have static homepage
 mainSections = []
 # example ["css/custom.css"]
-customCss = ["css/styles.css", "https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css"]
+customCss = ["https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap", "css/styles.css", "https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css"]
 customJS = ["https://code.jquery.com/jquery-3.7.1.js", "https://cdn.datatables.net/2.2.2/js/dataTables.js"]
 
 # for the blog

@@ -1,3 +1,11 @@
+*:not(i) {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 .wrapper, .wrapper__main, .post, .post__content, .post__footer {
     color: #7280ae;
     background-color: #ffffff; 
@@ -25,19 +33,14 @@ height: 100%;
 }
 
 html, .header {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
   background-color: #ffffff;
 }
 
 #navMenu, nav.nav, .theme--dark .nav__list {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
   background-color: #ffffff;
 }
 
-
-
 .nav__list--end {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
   background-color: #ffffff;
 }
 
