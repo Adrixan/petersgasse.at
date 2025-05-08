@@ -10,6 +10,12 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
+a:link, a:visited {
+  color: #7280ae;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 .wrapper, .wrapper__main, .post, .post__content, .post__footer {
     color: #7280ae;
     background-color: #ffffff; 
