@@ -1,0 +1,13 @@
+https://pagefind.app/
+
+Tabellen:
+https://datatables.net/examples/basic_init/zero_configuration.html
+
+Excel Spreadsheets:
+https://realpython.com/openpyxl-excel-spreadsheets-python/
+
+two column layout:
+https://www.w3schools.com/howto/howto_css_two_columns.asp
+
+resize images:
+https://stackoverflow.com/questions/273946/how-do-i-resize-an-image-using-pil-and-maintain-its-aspect-ratio
