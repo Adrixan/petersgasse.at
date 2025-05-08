@@ -61,10 +61,10 @@ icon = "fas fa-phone"
 title = "telefon"
 url = "tel:+4350248017"
 
-[[params.socialIcons]]
-icon = "fas fa-fax"
-title = "fax"
-url = "tel:+4350248017999"
+#[[params.socialIcons]]
+#icon = "fas fa-fax"
+#title = "fax"
+#url = "tel:+4350248017999"
 
 [markup]
     [markup.goldmark]
