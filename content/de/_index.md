@@ -6,6 +6,9 @@ Unsere Schule stellt sich vor...
 
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
+# Aktuelle Aussendungen
+* [1. Mitteilbungsblatt 2024/25](</1. Mitteilungsblatt 2024 25.pdf>)
+
 # Wichtige Links
 
 * [WebUntis](https://urania.webuntis.com/WebUntis/?school=brg-petersgasse#/basic/login)
@@ -14,8 +17,14 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 * [Schulbibliothek](https://petersgasse.at/index.php/links/30-allgemein-schulbibliothek/46-schulbibliothek)
 * [Portal](https://www.portal.at/pat/public/loginform?target=https://www.portal.at/pat/private&smquerydata=&smauthreason=0)
 
-* [Sprechstunden](/Sprechstunden_2324.pdf)
+# Wichtige Dokumente zur Anmeldung
 * [Aufnahmeansuchen](/Aufnahmeansu1KL.pdf)
+
+# Regeln im Schulgebäude
+
+* [Hausordnung](</Hausordnung Version 2.0.pdf>)
+* [Verhaltensvereinbarungen](/Verhaltensvereinbarungen.pdf)
+* [Gebrauch elektronischer Geräte](</Gebrauch elektronischer Geräte_Version 1.5.pdf>)
 
 ---
 # Wichtige Termine
