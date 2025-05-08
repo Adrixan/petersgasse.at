@@ -1,7 +1,6 @@
 +++
 identifier = "eindruecke"
 date = "2019-02-28"
-
 +++
 
 ![Brettspiel](/images/nachmittagsbetreuung/9.jpg)

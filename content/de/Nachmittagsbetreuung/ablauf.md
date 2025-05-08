@@ -3,7 +3,7 @@ identifier="ablauf"
 date = "2019-02-28"
 +++
 
-![Beim Lesen](/images/nachmittagsbetreuung/3.jpg)
+<!--  ![Beim Lesen](/images/nachmittagsbetreuung/3.jpg) -->
 
 Die Nachmittagsbetreuung umfasst den Zeitraum von 13.05 (Ende der 6. Stunde) bis 16.30 Uhr.  Sie wird von Montag bis Freitag geführt und beinhaltet ein warmes Mittagessen im WIKU-BRG, gelenkte und ungelenkte Lernzeiten sowie Freizeitaktivitäten.  
 

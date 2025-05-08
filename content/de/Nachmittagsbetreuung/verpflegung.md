@@ -4,7 +4,7 @@ date = "2019-02-28"
 
 +++
 
-![Wissenswert](/images/nachmittagsbetreuung/79.jpg)
+<!-- ![Wissenswert](/images/nachmittagsbetreuung/79.jpg) -->
 
 # Verpflegung und Speisepläne
 

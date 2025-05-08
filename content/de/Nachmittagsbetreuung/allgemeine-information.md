@@ -3,7 +3,8 @@ identifier = "allgemeine-informationen"
 date = "2019-01-31"
 +++
 
-![](/images/nachmittagsbetreuung/85.jpg)
+<!-- ![](/images/nachmittagsbetreuung/85.jpg) -->
+![Wissenswert](/images/nachmittagsbetreuung/79.jpg)
 
 # Allgemeine Informationen
 

@@ -32,12 +32,12 @@ identifier = "ablauf"
 parent = "nachmittagsbetreuung"
 url = "/nachmittagsbetreuung/ablauf/"
 weight = 420
-[[main]]
-name = "Eindrücke"
-identifier = "eindruecke"
-parent = "nachmittagsbetreuung"
-url = "/nachmittagsbetreuung/eindruecke/"
-weight = 430
+# [[main]]
+# name = "Eindrücke"
+# identifier = "eindruecke"
+# parent = "nachmittagsbetreuung"
+# url = "/nachmittagsbetreuung/eindruecke/"
+# weight = 430
 [[main]]
 name = "Kosten"
 identifier = "kosten"
