@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523be2b0>-<built-in method lower of str object at 0x7f40523f5630>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4eb7b10>-<built-in method lower of str object at 0x7f15f4eecff0>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Gert Pribitzer
+# MMag. Gert Pribitzer 
 
 Sprechstunde am Montag um 11:25-12:15
 

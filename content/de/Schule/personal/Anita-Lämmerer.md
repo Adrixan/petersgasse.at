@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523bf8d0>-<built-in method lower of str object at 0x7f4051b21d90>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4eb7780>-<built-in method lower of str object at 0x7f15f4d19c50>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Anita Lämmerer
+# Mag.a Anita Lämmerer 
 
 Sprechstunde am Dienstag um 8:30-9:20
 

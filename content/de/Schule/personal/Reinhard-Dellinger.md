@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523b80b0>-<built-in method lower of str object at 0x7f40523bafb0>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4eae270>-<built-in method lower of str object at 0x7f15f4eae3f0>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Reinhard Dellinger
+# Mag. Reinhard Dellinger 
 
 Sprechstunde am Montag um 9:25-10:15 und 10:30-11:20
 

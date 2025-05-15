@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523bcb40>-<built-in method lower of str object at 0x7f40523bb0f0>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4d24810>-<built-in method lower of str object at 0x7f15f4d00270>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Birgit Schneider
+# Mag.a Birgit Schneider 
 
 Sprechstunde am Montag um 9:25-10:15
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f4051b24ff0>-<built-in method lower of str object at 0x7f40523bc540>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4d1d330>-<built-in method lower of str object at 0x7f15f4eb6550>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Christian Zach
+# Mag. Christian Zach 
 
 Sprechstunde am Montag um 8:30-9:20
 

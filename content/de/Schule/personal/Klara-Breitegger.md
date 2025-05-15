@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f4052397ae0>-<built-in method lower of str object at 0x7f40523f9830>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4e9b300>-<built-in method lower of str object at 0x7f15f4ef1bb0>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Klara Breitegger
+# Mag.a Klara Breitegger 
 
 Sprechstunde am Mittwoch um 10:30-11:20
 

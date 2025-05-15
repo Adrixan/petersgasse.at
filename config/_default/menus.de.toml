@@ -80,11 +80,17 @@ parent = "schule"
 url = "/schule/kurssystem/"
 weight = 530
 [[main]]
-name = "Personen"
-identifier = "personen"
+name = "Lehrer:innen"
+identifier = "lehrpersonal"
 parent = "schule"
-url = "/schule/personen/"
+url = "/schule/lehrpersonal/"
 weight = 540
+[[main]]
+name = "Administratives Personal"
+identifier = "adminpersonen"
+parent = "schule"
+url = "/schule/adminpersonen/"
+weight = 541
 [[main]]
 name = "Schulprofil"
 identifier = "schulprofil"

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523b4930>-<built-in method lower of str object at 0x7f40523bcc60>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4eabcf0>-<built-in method lower of str object at 0x7f15f4eb6130>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Alexandra Wolf
+#  Alexandra Wolf BEd MEd
 
 Sprechstunde am Mittwoch um 12:15-13:05
 

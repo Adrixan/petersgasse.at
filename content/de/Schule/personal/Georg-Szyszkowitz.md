@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523bfed0>-<built-in method lower of str object at 0x7f40523b5e70>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4d24ea0>-<built-in method lower of str object at 0x7f15f4ea3c70>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Georg Szyszkowitz
+# Mag. Georg Szyszkowitz 
 
 Sprechstunde am Montag um 11:25-12:15
 

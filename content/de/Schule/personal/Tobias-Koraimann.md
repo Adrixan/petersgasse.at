@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523bf240>-<built-in method lower of str object at 0x7f40523bbc30>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4eb70f0>-<built-in method lower of str object at 0x7f15f4eae930>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Tobias Koraimann
+# Mag. Tobias Koraimann 
 
 Sprechstunde am Freitag um 10:30-11:20
 

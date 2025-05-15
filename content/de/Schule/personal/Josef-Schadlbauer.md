@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523bd6b0>-<built-in method lower of str object at 0x7f40523fb6f0>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4eb5560>-<built-in method lower of str object at 0x7f15f4ef1770>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Josef Schadlbauer
+# Mag. Dr. Josef Schadlbauer 
 
 Sprechstunde am Donnerstag um 9:25-10:15
 

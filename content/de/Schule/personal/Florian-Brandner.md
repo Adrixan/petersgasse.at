@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f4052397840>-<built-in method lower of str object at 0x7f40523f75b0>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4e9b000>-<built-in method lower of str object at 0x7f15f4eef930>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Florian Brandner
+# Mag. Florian Brandner 
 
 Sprechstunde am Montag um 8:30-9:20
 

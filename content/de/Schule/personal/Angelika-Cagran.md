@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f40523fb8f0>-<built-in method lower of str object at 0x7f4052397d50>"
-date = "2025-05-08"
+identifier = "<built-in method lower of str object at 0x7f15f4ef3c70>-<built-in method lower of str object at 0x7f15f4e9b570>"
+date = "2025-05-15"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Angelika Cagran
+# Mag.a Angelika Cagran 
 
 Sprechstunde am Donnerstag um 10:30-11:20
 
