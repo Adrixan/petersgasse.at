@@ -107,7 +107,7 @@ weight = 600
 name = "Wir stellen uns vor"
 identifier = "vorstellung-intro"
 parent = "vorstellung"
-url = "/vorstellung/intro/"
+url = "/vorstellung/vorstellung-intro/"
 weight = 611
 [[main]]
 name = "Geisteswissenschaften"
