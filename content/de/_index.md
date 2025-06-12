@@ -26,6 +26,18 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 * [Verhaltensvereinbarungen](/Verhaltensvereinbarungen.pdf)
 * [Gebrauch elektronischer Geräte](</Gebrauch elektronischer Geräte_Version 1.5.pdf>)
 
+# Unterstützungsangebote außerhalb der Schule
+
+|  Angebot  | Rufnummer |
+|--------|--------|
+| Hotline der Bildungsdirektion für schulische Krisen | 0664 803 455 665 |
+| Schulpsychologische Beratungsstelle Steirischer Zentralraum | 05 0248 345 DW 660 bzw. 661 |
+| Telefonseelsorge | 142 (rund um die Uhr, anonym & kostenlos) |
+| Rat auf Draht | 147 (für Kinder & Jugendliche, kostenlos) |
+| „Reden wir!“ | Steirisches Hilfetelefon: 0800 20 44 22 |
+| PsyNot – Psychologische Notfallhilfe | 0800 44 99 33 |
+| Institut für Kind, Jugend und Familie | 0699 1603 0001 |
+
 ---
 # Wichtige Termine
 
