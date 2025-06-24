@@ -4,6 +4,10 @@ date = "2019-02-28"
 +++
 Unsere Schule stellt sich vor...
 
+![Beim Lesen](/images/homepage_banner.jpg)
+
+# ... und inzwischen ...
+
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
