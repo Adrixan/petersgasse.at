@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91ad740>-<built-in method lower of str object at 0x7febf91ad770>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a0450>-<built-in method lower of str object at 0x7fab038a0480>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Musik,  Englisch
 
 
 
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

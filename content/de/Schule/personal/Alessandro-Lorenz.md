@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91e4970>-<built-in method lower of str object at 0x7febf8922fd0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038b8df0>-<built-in method lower of str object at 0x7fab038a06f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 3C
 
 
 Koordination für: Kunst und Gestaltung
+
+
 
 </div>
 </div> 

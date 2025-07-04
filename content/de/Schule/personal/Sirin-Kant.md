@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8921ad0>-<built-in method lower of str object at 0x7febf8921b00>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03704780>-<built-in method lower of str object at 0x7fab037047b0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Digitale Grundbildung,  Evangelische Religion
 
 
 Koordination für: Religion evang.
+
+
 
 </div>
 </div> 

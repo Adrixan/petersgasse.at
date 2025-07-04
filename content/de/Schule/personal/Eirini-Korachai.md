@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8922760>-<built-in method lower of str object at 0x7febf91e4d30>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03705410>-<built-in method lower of str object at 0x7fab038bb770>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -18,6 +18,8 @@ draft = false
 Sprechstunde am Montag um 9:25-10:15
 
 Fächer: Kunst und Gestaltung,  Technisches Design
+
+
 
 
 

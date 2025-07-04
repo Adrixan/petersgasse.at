@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8922f10>-<built-in method lower of str object at 0x7febf8929d90>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03705bc0>-<built-in method lower of str object at 0x7fab038fb0f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Englisch,  Geschichte und Politische Bildung
 
 
 Koordination für: Englisch als Arbeitssprache (CLIL)
+
+
 
 </div>
 </div> 

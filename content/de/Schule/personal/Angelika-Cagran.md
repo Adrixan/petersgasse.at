@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91ffc70>-<built-in method lower of str object at 0x7febf91aedf0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038d9c30>-<built-in method lower of str object at 0x7fab038a1aa0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Italienisch,  Französisch
 Oberstufe: Themenkurs
 
 Koordination für: Französisch, Italienisch, Erasmus
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

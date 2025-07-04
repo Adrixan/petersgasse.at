@@ -1,6 +1,6 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03705f20>-<built-in method lower of str object at 0x7fab038eaef0>"
+identifier = "<built-in method lower of str object at 0x7f878ebbc900>-<built-in method lower of str object at 0x7f878ebbc930>"
 date = "2025-07-04"
 draft = false
 +++
@@ -9,11 +9,11 @@ draft = false
 
 <div class="row">
 <div class="column">
-<img src="/images/personal/Stuhlpfarrer.jpg" alt="David Stuhlpfarrer"> 
+<img src="/images/personal/Bargehr.jpg" alt="Corinna Bargehr"> 
 </div>
 <div class="column">
 
-# Mag. David Stuhlpfarrer 
+# Mag.a Corinna Bargehr 
 
 Sprechstunde am  um Nach Vereinbarung!
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf890be30>-<built-in method lower of str object at 0x7febf8922460>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038ea970>-<built-in method lower of str object at 0x7fab037068b0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Bühnenspiel
 
 
 Koordination für: Theater
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8922880>-<built-in method lower of str object at 0x7febf91c7d70>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03705530>-<built-in method lower of str object at 0x7fab038ba930>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Volleyball
 Oberstufe: Themenkurs
 
 Koordination für: Schülerberatung, Gesundheitsbeaugtragter, MIT (Mobbing I. T.)
+
+
 
 </div>
 </div> 

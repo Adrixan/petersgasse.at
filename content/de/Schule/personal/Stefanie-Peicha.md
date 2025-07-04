@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91eaff0>-<built-in method lower of str object at 0x7febf89213e0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038bf630>-<built-in method lower of str object at 0x7fab03705a10>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Geräteturnen
 Oberstufe: Themenkurs
 
 Koordination für: Schülerberatung
+
+
 
 </div>
 </div> 

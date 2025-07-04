@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf89224f0>-<built-in method lower of str object at 0x7febf8922520>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab037051a0>-<built-in method lower of str object at 0x7fab037051d0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Mathematik-Olympiade
 
 
 Koordination für: Mathematik, Begabungsförderung, Müllmanagement
+
+
 
 </div>
 </div> 

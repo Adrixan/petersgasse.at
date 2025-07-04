@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91c4b70>-<built-in method lower of str object at 0x7febf91c49f0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038b8830>-<built-in method lower of str object at 0x7fab038b89f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -18,6 +18,8 @@ draft = false
 Sprechstunde am Montag um 9:25-10:15 und 10:30-11:20
 
 Fächer: Bewegung und Sport,  Chemie
+
+
 
 
 

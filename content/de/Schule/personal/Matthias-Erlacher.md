@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8918c70>-<built-in method lower of str object at 0x7febf8918e30>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038eabf0>-<built-in method lower of str object at 0x7fab038eadb0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Bewegung und Sport,  Physik
 Oberstufe: Themenkurs
 
 Koordination für: Energiesparen/Contracting
+
+
 
 </div>
 </div> 

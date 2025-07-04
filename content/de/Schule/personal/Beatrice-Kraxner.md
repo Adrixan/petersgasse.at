@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf891ca30>-<built-in method lower of str object at 0x7febf8922cd0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038f5230>-<built-in method lower of str object at 0x7fab03705980>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 2D
 
 
 Koordination für: Schulbuch/Lehrhandbuch
+
+
 
 </div>
 </div> 

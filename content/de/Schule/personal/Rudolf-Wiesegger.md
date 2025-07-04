@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8921b90>-<built-in method lower of str object at 0x7febf91b3f30>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a3d20>-<built-in method lower of str object at 0x7fab038ebcb0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -26,6 +26,8 @@ Fächer: Deutsch,  Musik
 ## Kurse
 
 Unterstufe: Juniorkurse: Schulband,  Chor,  Klavier/Keyboard/Songbegleitung
+
+
 
 
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8920cf0>-<built-in method lower of str object at 0x7febf91fdb70>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a3960>-<built-in method lower of str object at 0x7fab040597f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 6B
 Oberstufe: Mathematik-Olympiade,  Themenkurse
 
 Koordination für: DG und Geometrisches Zeichnen, Schulbuch/Lehrhandbuch
+
+
 
 </div>
 </div> 

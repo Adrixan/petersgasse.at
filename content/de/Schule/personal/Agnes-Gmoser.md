@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8920540>-<built-in method lower of str object at 0x7febf8920570>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a20a0>-<built-in method lower of str object at 0x7fab038a1b90>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Ehtik,  Deutsch,  Katholische Religion
 Oberstufe: Themenkurs
 
 Koordination für: Ethik, Jugendrotkreuz, Soziales Lernen
+
+
 
 </div>
 </div> 

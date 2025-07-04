@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8921860>-<built-in method lower of str object at 0x7febf91f9ff0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03704510>-<built-in method lower of str object at 0x7fab038d11f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Geschichte und Politische Bildung,  Latein
 
 
 Koordination für: Latein
+
+
 
 </div>
 </div> 

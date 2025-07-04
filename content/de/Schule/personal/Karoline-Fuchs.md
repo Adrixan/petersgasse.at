@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf891bdf0>-<built-in method lower of str object at 0x7febf91afe40>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038f2db0>-<built-in method lower of str object at 0x7fab038a2970>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -18,6 +18,8 @@ draft = false
 Sprechstunde am Nach Vereinbarung! um Nach Vereinbarung!
 
 Fächer: Musik,  Englisch
+
+
 
 
 

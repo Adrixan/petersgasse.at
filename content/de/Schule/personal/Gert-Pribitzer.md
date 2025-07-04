@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8923720>-<built-in method lower of str object at 0x7febf91f9930>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03705290>-<built-in method lower of str object at 0x7fab038ce7b0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 1A
 Oberstufe: Themenkurs
 
 Koordination für: Jahresbericht
+
+
 
 </div>
 </div> 

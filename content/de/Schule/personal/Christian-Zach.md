@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf892d2f0>-<built-in method lower of str object at 0x7febf91aec70>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038f7bb0>-<built-in method lower of str object at 0x7fab03706700>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV der 7A
 Oberstufe: Themenkurse
 
 Koordination für: Informationstechnologie
+
+
 
 </div>
 </div> 

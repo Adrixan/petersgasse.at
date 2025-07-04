@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91aeb50>-<built-in method lower of str object at 0x7febf91fdbb0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a1830>-<built-in method lower of str object at 0x7fab038d3b30>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 2A/2C
 Oberstufe: Themenkurs
 
 Koordination für: Nachmittagsbetreuung, Individuelle Lernbegleitung (ILB), MIT (Mobbing I. Tl), Umwelterziehung
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91fe4b0>-<built-in method lower of str object at 0x7febf8923c60>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038d2870>-<built-in method lower of str object at 0x7fab03704c00>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Französich für Anfänger:innen
 
 
 Koordination für: Individuelle Lernbegleitung (ILB)
+
+
 
 </div>
 </div> 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8919c30>-<built-in method lower of str object at 0x7febf8930cf0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038f6df0>-<built-in method lower of str object at 0x7fab03706730>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -26,6 +26,8 @@ KV (Stellvertretung) der 5B
 ## Kurse
 
 Unterstufe: Juniorkurs: Italienisch für Anfänger:innen
+
+
 
 
 

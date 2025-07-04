@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8922ac0>-<built-in method lower of str object at 0x7febf91e7030>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a2be0>-<built-in method lower of str object at 0x7fab038bb4f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 3A
 
 
 Koordination für: Brandschutzbeauftragter, Energiesparen/Contracting, Sicherheitsvertrauensperson, Umwelterziehung
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

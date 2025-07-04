@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8920ff0>-<built-in method lower of str object at 0x7febf8909ab0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a3c60>-<built-in method lower of str object at 0x7fab038e0170>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -28,6 +28,8 @@ Fächer: Katholische Religion
 
 
 Oberstufe: Themenkurs
+
+
 
 
 

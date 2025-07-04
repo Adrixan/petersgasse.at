@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91afb70>-<built-in method lower of str object at 0x7febf891af30>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a2790>-<built-in method lower of str object at 0x7fab038f0ef0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 3B
 Oberstufe: Themenkurs
 
 Koordination für: Bildungs- und Berufsorientierung, Religion kath./Friedenserziehung, Schülerberatung, MIT (Mobbing I. T.)
+
+
 
 </div>
 </div> 

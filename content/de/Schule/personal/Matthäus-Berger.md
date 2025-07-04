@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91f1340>-<built-in method lower of str object at 0x7febf91ae430>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038c2830>-<built-in method lower of str object at 0x7fab038a1110>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Geschichte und Politische Bildung,  Katholische Religion
 
 
 Koordination für: Geschichte u. Politische Bildung, Krisenintervention, Politische Bildung
+
+
 
 </div>
 </div> 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8922010>-<built-in method lower of str object at 0x7febf8922040>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03704cc0>-<built-in method lower of str object at 0x7fab03704cf0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV der 4C
 Oberstufe: Themenkurs
 
 Koordination für: Psychologie u. Philosophie, Schülerberatung, ULV
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

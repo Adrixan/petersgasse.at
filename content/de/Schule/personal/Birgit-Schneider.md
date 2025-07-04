@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8930240>-<built-in method lower of str object at 0x7febf890eab0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03704570>-<built-in method lower of str object at 0x7fab038e07f0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Spanisch für Anfänger:innen
 Oberstufe: Themenkurs
 
 Koordination für: Bibliothek/Buchklub, Spanisch, Schulkulturbudget
+
+
 
 </div>
 </div> 

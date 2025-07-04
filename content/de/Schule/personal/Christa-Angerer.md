@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91adc80>-<built-in method lower of str object at 0x7febf91adcb0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a0930>-<built-in method lower of str object at 0x7fab038a0960>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 5A
 Oberstufe: Themenkurs
 
 Koordination für: Biologie und Umweltbildung, Gesundheitsbeauftragte
+
+
 
 </div>
 </div> 

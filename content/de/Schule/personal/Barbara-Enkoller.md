@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf91af810>-<built-in method lower of str object at 0x7febf890f970>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038a2490>-<built-in method lower of str object at 0x7fab038e9930>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Fächer: Chemie,  Physik
 Oberstufe: Themenkurs
 
 Koordination für: Chemie, Vorwissenschaftliche Arbeit
+
+
 
 </div>
 </div> 

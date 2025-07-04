@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf89311d0>-<built-in method lower of str object at 0x7febf891c9b0>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab0440bcc0>-<built-in method lower of str object at 0x7fab038a6cb0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV (Stellvertretung) der 8A
 
 
 Koordination für: Jahresbericht, QMS-Koordinatorinnen
+
+Nachmittagsbetreuung
 
 </div>
 </div> 

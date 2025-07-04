@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf890d7f0>-<built-in method lower of str object at 0x7febf8920b40>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038e8230>-<built-in method lower of str object at 0x7fab038a37b0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -28,6 +28,8 @@ KV der 2D
 
 
 Oberstufe: Themenkurs
+
+
 
 
 

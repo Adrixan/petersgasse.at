@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf89097b0>-<built-in method lower of str object at 0x7febf8930390>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab038e1e30>-<built-in method lower of str object at 0x7fab037043c0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: Codes and Robots
 Oberstufe: Themenkurs
 
 Koordination für: Audiovisuelle Medien, Informatik, Informationstechnologie, Geräteinitiative „Digitales Lernen“
+
+
 
 </div>
 </div> 

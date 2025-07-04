@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf89308d0>-<built-in method lower of str object at 0x7febf91b3730>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03706310>-<built-in method lower of str object at 0x7fab038ebeb0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ KV der 2B
 Oberstufe: Themenkurs
 
 Koordination für: Technik und Design, Brandschutzbeauftragter, Schulwerbung (PR)
+
+
 
 </div>
 </div> 

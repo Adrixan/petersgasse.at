@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7febf8923ed0>-<built-in method lower of str object at 0x7febf91fee30>"
-date = "2025-06-24"
+identifier = "<built-in method lower of str object at 0x7fab03704930>-<built-in method lower of str object at 0x7fab038d95b0>"
+date = "2025-07-04"
 draft = false
 +++
 
@@ -30,6 +30,8 @@ Unterstufe: Juniorkurs: RoboCup
 Oberstufe: Themenkurse
 
 
+
+Nachmittagsbetreuung
 
 </div>
 </div> 
