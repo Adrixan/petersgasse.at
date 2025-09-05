@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a3960>-<built-in method lower of str object at 0x7fab040597f0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ed1d0>-<built-in method lower of str object at 0x7f70507de0f0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Dr. Josef Schadlbauer 
+# Mag. Dr. Schadlbauer Josef 
 
 Sprechstunde am Donnerstag um 9:25-10:15
 
-Fächer: Darstellende Geometrie,  Geometrische Zeichnen
+Fächer: Darstellende Geometrie,  Geometrisches Zeichnen
 
 
 
-KV (Stellvertretung) der 6B
+KV (Stellvertretung) der 7B
 
 ## Kurse
 

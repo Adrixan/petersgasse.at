@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03706490>-<built-in method lower of str object at 0x7fab037064c0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507eccc0>-<built-in method lower of str object at 0x7f70507ef660>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Thomas Tieber 
+# Mag. Tieber Thomas 
 
 Sprechstunde am Donnerstag um 9:25-10:15
 
 Fächer: Bewegung und Sport,  Geografie und Wirtschaftsbildung
 
-KV der 5B
+
 
 
 

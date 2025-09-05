@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03704270>-<built-in method lower of str object at 0x7fab03704240>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ed140>-<built-in method lower of str object at 0x7f70507ec270>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Paul Steiner 
+# Mag. Steiner Paul 
 
 Sprechstunde am Mittwoch um 10:30-11:20
 
 Fächer: Bewegung und Sport,  Geografie und Wirtschaftsbildung
 
-KV der 3B
+KV der 4B
 
 
 

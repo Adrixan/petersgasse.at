@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a2be0>-<built-in method lower of str object at 0x7fab038bb4f0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ef270>-<built-in method lower of str object at 0x7f70507c5bf0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-#  Philip Mlekusch MA
+#  Mlekusch Philip MA
 
 Sprechstunde am Montag um 10:30-11:20
 
 Fächer: Physik,  Geografie und Wirtschaftsbildung
 
-KV der 3C
+KV der 4C
 
-KV (Stellvertretung) der 3A
+KV (Stellvertretung) der 4A
 
 
 

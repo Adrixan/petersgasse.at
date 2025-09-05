@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab037051a0>-<built-in method lower of str object at 0x7fab037051d0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507eea00>-<built-in method lower of str object at 0x7f70507eea30>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Verena Kneihsl 
+# Mag.a Kneihsl Verena 
 
 Sprechstunde am Mittwoch um 8:30-9:20
 
 Fächer: Biologie und Umweltbildung,  Mathematik
 
-KV der 7B
+KV der 8B
 
 
 

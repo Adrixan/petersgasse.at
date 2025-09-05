@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038b8df0>-<built-in method lower of str object at 0x7fab038a06f0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507a6eb0>-<built-in method lower of str object at 0x7f7050fdeb80>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Alessandro Lorenz 
+# Mag. Lorenz Alessandro 
 
 Sprechstunde am Dienstag um 7:35-8:25
 
@@ -21,7 +21,7 @@ Fächer: Kunst und Gestaltung,  Technik und Design
 
 
 
-KV (Stellvertretung) der 3C
+
 
 
 

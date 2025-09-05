@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a1440>-<built-in method lower of str object at 0x7fab038a1470>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f705079f510>-<built-in method lower of str object at 0x7f705079f540>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-# MMag.a Heidrun Bergold 
+# MMag.a Bergold Heidrun 
 
 Sprechstunde am Montag um 11:25-12:15
 
 Fächer: Bewegung und Sport,  Mathematik
 
-KV der 3D
+KV der 4D
 
 
 

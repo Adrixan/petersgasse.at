@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03704cc0>-<built-in method lower of str object at 0x7fab03704cf0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ee520>-<built-in method lower of str object at 0x7f70507ee550>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Dr. Robert Kindig 
+# Mag. Dr. Kindig Robert 
 
 Sprechstunde am Mittwoch um 11:25-12:15
 
 Fächer: Deutsch,  Philosophie u. Psychologie
 
-KV der 4C
+
 
 
 

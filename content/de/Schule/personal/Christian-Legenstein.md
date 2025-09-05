@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038f7bb0>-<built-in method lower of str object at 0x7fab038f7d70>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f704ff0a2f0>-<built-in method lower of str object at 0x7f704ff0a4b0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Christian Legenstein 
+# Mag. Legenstein Christian 
 
 Sprechstunde am Freitag um 9:25-10:15
 
 Fächer: Deutsch,  Englisch
 
-KV der 3A
+KV der 4A
 
-KV (Stellvertretung) der 4B
+KV (Stellvertretung) der 5B
 
 
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a1380>-<built-in method lower of str object at 0x7fab038b7780>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ef000>-<built-in method lower of str object at 0x7f70507c31e0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Julia Öhlschläger 
+# Mag.a Öhlschläger Julia 
 
 Sprechstunde am Mittwoch um 9:25-10:15
 
 Fächer: Deutsch,  Geschichte und Politische Bildung
 
-KV der 8B
+KV der 6B
 
-KV (Stellvertretung) der 7B
+KV (Stellvertretung) der 8B
 
 ## Kurse
 

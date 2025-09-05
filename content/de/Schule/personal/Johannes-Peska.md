@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038c65b0>-<built-in method lower of str object at 0x7fab03705860>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f704ff0a7f0>-<built-in method lower of str object at 0x7f70507eeac0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Johannes Peska 
+# Mag. Peska Johannes 
 
 Sprechstunde am Dienstag um 9:25-10:15
 
 Fächer: Mathematik,  Physik,  Geometrisches Zeichnen
 
-KV der 6A
+KV der 7A
 
 
 

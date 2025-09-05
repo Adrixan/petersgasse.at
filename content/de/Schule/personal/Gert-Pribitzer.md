@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03705290>-<built-in method lower of str object at 0x7fab038ce7b0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ee370>-<built-in method lower of str object at 0x7f70507d9570>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# MMag. Gert Pribitzer 
+# MMag. Pribitzer Gert 
 
 Sprechstunde am Montag um 11:25-12:15
 
@@ -21,7 +21,7 @@ Fächer: Kunst und Gestaltung,  Technik und Design
 
 
 
-KV (Stellvertretung) der 1A
+KV (Stellvertretung) der 2A
 
 ## Kurse
 

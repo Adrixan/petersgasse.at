@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a01e0>-<built-in method lower of str object at 0x7fab038ba830>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f705079e430>-<built-in method lower of str object at 0x7f70507c65b0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,13 +13,13 @@ draft = false
 </div>
 <div class="column">
 
-#  Niklas Aichholzer BEd
+#  Aichholzer Niklas BEd
 
 Sprechstunde am Dienstag um 10:30-11:20
 
 Fächer: Mathematik,  Physik
 
-KV der 1C
+KV der 2C
 
 
 

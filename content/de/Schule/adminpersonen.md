@@ -1,7 +1,7 @@
 
 +++
 identifier = "adminpersonen"
-date = "2025-06-24"
+date = "2025-09-05"
 draft = false
 +++
 {{< rawhtml >}}
@@ -19,37 +19,37 @@ draft = false
         <tbody>
     
             <tr>
-                <td>Dr.in med. univ. Cordula Bilban-Schmuck</td>
+                <td>Dr.in med. univ. Bilban-Schmuck Cordula</td>
                 <td>Schulärztin</td>
             </tr>
         
             <tr>
-                <td>Dr.in med. univ. Barbara Kratzmüller</td>
+                <td>Dr.in med. univ. Kratzmüller Barbara</td>
                 <td>Schulärztin</td>
             </tr>
         
             <tr>
-                <td>Veronika Steinbauer</td>
+                <td>Steinbauer Veronika</td>
                 <td>Sekretärin </td>
             </tr>
         
             <tr>
-                <td>Melisa Osmic</td>
+                <td>Osmic Melisa</td>
                 <td>Verwaltungsassistentin</td>
             </tr>
         
             <tr>
-                <td>Anto Kovacevic</td>
+                <td>Ass. Kovacevic Anto</td>
                 <td>leitender Schulwart</td>
             </tr>
         
             <tr>
-                <td>Michael Pieberl</td>
+                <td>Pieberl Michael</td>
                 <td>Hauswart</td>
             </tr>
         
             <tr>
-                <td>Hussain Tahawar</td>
+                <td>Ficzko Margit</td>
                 <td>Schulbuffet</td>
             </tr>
         

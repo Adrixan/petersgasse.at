@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03705470>-<built-in method lower of str object at 0x7fab03705440>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ee610>-<built-in method lower of str object at 0x7f70507ee5e0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Mag. Markus Pilz 
+# Mag. Pilz Markus 
 
 Sprechstunde am Mittwoch um 10:30-11:20
 
@@ -21,7 +21,7 @@ Fächer: Biologie und Umweltbildung,  Chemie,  Digitale Grundbildung
 
 
 
-KV (Stellvertretung) der 4A
+KV (Stellvertretung) der 5A
 
 ## Kurse
 

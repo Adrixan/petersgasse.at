@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a2790>-<built-in method lower of str object at 0x7fab038f0ef0>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ec8a0>-<built-in method lower of str object at 0x7f70507fbb70>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Denise Fadengruber 
+# Mag.a Fadengruber Denise 
 
 Sprechstunde am Mittwoch um 12:15-13:05
 
 Fächer: Geschichte und Politische Bildung,  Katholische Religion
 
-KV der 4B
+KV der 5B
 
-KV (Stellvertretung) der 3B
+KV (Stellvertretung) der 4B
 
 ## Kurse
 

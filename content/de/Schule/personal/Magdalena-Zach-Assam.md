@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038e3530>-<built-in method lower of str object at 0x7fab038e3230>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507dabf0>-<built-in method lower of str object at 0x7f70507db8b0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Magdalena Zach-Assam 
+# Mag.a Zach-Assam Magdalena 
 
 Sprechstunde am Montag um 8:30-9:20
 
@@ -21,7 +21,7 @@ Fächer: Bewegung und Sport,  Biologie und Umweltbildung
 
 
 
-KV (Stellvertretung) der 2B
+
 
 ## Kurse
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038a1830>-<built-in method lower of str object at 0x7fab038d3b30>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f705079f8d0>-<built-in method lower of str object at 0x7f70507de4b0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,7 +13,7 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Klara Breitegger 
+# Mag.a Breitegger Klara 
 
 Sprechstunde am Mittwoch um 10:30-11:20
 
@@ -21,7 +21,7 @@ Fächer: Katholische Religion,  Mathematik
 
 
 
-KV (Stellvertretung) der 2A/2C
+KV (Stellvertretung) der 3A/3C
 
 ## Kurse
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab038f5230>-<built-in method lower of str object at 0x7fab03705980>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507a75b0>-<built-in method lower of str object at 0x7f70507ef1e0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Beatrice Kraxner 
+# Mag.a Kraxner Beatrice 
 
 Sprechstunde am Montag um 11:25-12:15
 
-Fächer: Darstellende Geometrie,  Geometrische Zeichnen,  Mathematik
+Fächer: Darstellende Geometrie,  Geometrisches Zeichnen,  Mathematik
 
 
 
-KV (Stellvertretung) der 2D
+KV (Stellvertretung) der 3D
 
 
 

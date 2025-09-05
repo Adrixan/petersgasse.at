@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7fab03704fc0>-<built-in method lower of str object at 0x7fab03704f90>"
-date = "2025-07-04"
+identifier = "<built-in method lower of str object at 0x7f70507ee040>-<built-in method lower of str object at 0x7f70507edfb0>"
+date = "2025-09-05"
 draft = false
 +++
 
@@ -13,15 +13,15 @@ draft = false
 </div>
 <div class="column">
 
-# Mag.a Silke Prietl 
+# Mag.a Prietl Silke 
 
 Sprechstunde am Mittwoch um 11:25-12:15
 
 Fächer: Geografie und Wirschaftsbildung,  Geschichte und Politische Bildung,  Informatik,  Digitale Grundbildung
 
+KV der 1A
 
-
-KV (Stellvertretung) der 1C
+KV (Stellvertretung) der 2C
 
 
 
