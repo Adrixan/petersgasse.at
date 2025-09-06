@@ -15,6 +15,7 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 * [Ablauf 1. Schulwoche 2025/26](</Ablauf erste Schulwoche SJ 2025.26.pdf>)
 * [Hinweise und Infos zur Nachmittagsbetreuung](</Nachmittagsbetreuung_Hinweise_Termine SJ 2025.26.pdf>)
 * [Juniorkursbuch](</Juniorkursbuch 2025_26.pdf>)
+* [Anleitung zur Registrierung auf WebUntis](</infoblatt_webuntis_selbstregistrierung.pdf>)
 
 # Wichtige Links
 
