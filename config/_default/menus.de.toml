@@ -103,6 +103,13 @@ identifier = "schulverein"
 parent = "schule"
 url = "/schule/schulverein/"
 weight = 560
+[[main]]
+name = "Schüler:innen Beratung"
+identifier = "unterstuetzung"
+parent = "schule"
+url = "/schule/unterstuetzung/"
+weight = 570
+
 
 [[main]]
 name = "Vorstellung"

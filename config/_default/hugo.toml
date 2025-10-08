@@ -61,10 +61,10 @@ icon = "fas fa-phone"
 title = "telefon"
 url = "tel:+4350248017"
 
-#[[params.socialIcons]]
-#icon = "fas fa-fax"
-#title = "fax"
-#url = "tel:+4350248017999"
+[[params.socialIcons]]
+icon = "fas fa-fax"
+title = "Die Einbringung von Anträgen per Fax ist nicht möglich!"
+# url = "Die Einbringung von Anträgen via Fax ist nicht möglich!"
 
 [markup]
     [markup.goldmark]

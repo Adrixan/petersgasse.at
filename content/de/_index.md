@@ -2,7 +2,15 @@
 identifier = 'start'
 date = "2019-02-28"
 +++
-Unsere Schule stellt sich vor...
+# Unsere Schule stellt sich vor...
+
+
+## Tag der offenen Tür: Samstag, 17. Jänner 2026 (08:30-12:00 Uhr)
+
+Terminvergabe für einen Schnuppertag erfolgt ausschließlich an diesem Tag persönlich im Sekretariat (Achtung: begrenzte Anzahl)
+
+## Besuchen Sie uns bei der Schulinformationsmesse, vom 16. bis 18. Oktober 2025, in der Messe Graz (Halle A).
+
 
 ![Beim Lesen](/images/homepage_banner.jpg)
 
@@ -11,11 +19,13 @@ Unsere Schule stellt sich vor...
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
+* [Liste der Sprechstunden](/Sprechtstundenliste.pdf)
 * [1. Mitteilungsblatt 2025/26](</1. Mitteilungsblatt SJ 2025.26.pdf>)
 * [Ablauf 1. Schulwoche 2025/26](</Ablauf erste Schulwoche SJ 2025.26.pdf>)
 * [Hinweise und Infos zur Nachmittagsbetreuung](</Nachmittagsbetreuung_Hinweise_Termine SJ 2025.26.pdf>)
 * [Juniorkursbuch](</Juniorkursbuch 2025_26.pdf>)
 * [Anleitung zur Registrierung auf WebUntis](</infoblatt_webuntis_selbstregistrierung.pdf>)
+* [Anleitung zur Verwendung von WebUntis](</Infoblatt WebUntis_Anleitung für Eltern-Erziehungsberechtigte.pdf>)
 
 # Wichtige Links
 
@@ -34,6 +44,10 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 * [Verhaltensvereinbarungen](/Verhaltensvereinbarungen.pdf)
 * [Gebrauch elektronischer Geräte](</Gebrauch elektronischer Geräte SJ 2025.26.pdf>)
 * [Raumplan](</Raumplan.pdf>)
+
+# Unterstützungangebote innerhalb der Schule
+
+[Schüler:innen Beratung]( {{< relref "schule/unterstuetzung.md" >}} )
 
 # Unterstützungsangebote außerhalb der Schule
 
@@ -60,3 +74,5 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 					title="Termine"
 				class="wrapper"></iframe>
 ---
+
+Die Einbringung von Anträgen per Fax ist nicht möglich!
