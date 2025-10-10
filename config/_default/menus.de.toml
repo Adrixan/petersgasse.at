@@ -108,7 +108,7 @@ name = "Schüler:innen Beratung"
 identifier = "unterstuetzung"
 parent = "schule"
 url = "/schule/unterstuetzung/"
-weight = 570
+weight = 560
 
 
 [[main]]
