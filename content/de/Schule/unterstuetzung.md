@@ -5,6 +5,9 @@ date = "2019-02-28"
 +++
 # Unsere Schüler:innen - Beratung
 
+
+![Das Team](/images/susberatung.jpg) 
+
 ## Sprechstunden
 
 | Betreuer:in | Zeit | Ort |

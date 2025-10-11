@@ -7,8 +7,8 @@ date = "2019-02-28"
 # Kurssystem Oberstufe:
 
 * [Informationen zum Kurssystem](/Informationen_Homepage_fertig_2022.pdf)
-* [Kursbuch 2024/25](/Vorschau_auf_das_Kursbuch_2024_25.pdf)
-* [Kursfolien 2024/25](/Kursfolien_2024_25_alles_2.pdf)
+* [Kursbuch](/Kursbuch.pdf)
+* [Kursfolien](/Kursfolien.pdf)
 
 # Juniorkurssystem
 
