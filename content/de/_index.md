@@ -9,9 +9,6 @@ date = "2019-02-28"
 
 Terminvergabe für einen Schnuppertag erfolgt ausschließlich an diesem Tag persönlich im Sekretariat (Achtung: begrenzte Anzahl)
 
-## Besuchen Sie uns bei der Schulinformationsmesse, vom 16. bis 18. Oktober 2025, in der Messe Graz (Halle A).
-
-
 ![Beim Lesen](/images/homepage_banner.jpg)
 
 # ... und inzwischen ...
