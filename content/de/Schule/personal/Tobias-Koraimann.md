@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507eed90>-<built-in method lower of str object at 0x7f70507c8270>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc2fa0>-<built-in method lower of str object at 0x7f9a9f5111b0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag. Koraimann Tobias 
+## Korai
 
-Sprechstunde am Freitag um 10:30-11:20
+Sprechstunde am Donnerstag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Bewegung und Sport,  Englisch
 
@@ -29,7 +30,7 @@ Unterstufe: Juniorkurs: Volleyball
 
 Oberstufe: Themenkurs
 
-Koordination für: Schülerberatung, Gesundheitsbeaugtragter, MIT (Mobbing I. T.)
+Koordination für: Gesundheitsbeaugtragter, Krisenintervention,  Schülerberatung, MIT (Mobbing I. T.)
 
 
 

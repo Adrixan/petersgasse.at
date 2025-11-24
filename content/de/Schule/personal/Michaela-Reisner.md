@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507dcbf0>-<built-in method lower of str object at 0x7f70507edc80>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdf0fb0>-<built-in method lower of str object at 0x7f9a9f51c900>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,14 +14,15 @@ draft = false
 <div class="column">
 
 # Mag.a Reisner Michaela BA
+## Rei
 
-Sprechstunde am Freitag um 10:30-11:20
+Sprechstunde am Donnerstag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Englisch,  Französisch
 
 
 
-KV (Stellvertretung) der 2B
+KV (Stellvertretung) der 3B
 
 ## Kurse
 

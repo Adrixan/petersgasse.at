@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ec570>-<built-in method lower of str object at 0x7f70507d2130>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc2640>-<built-in method lower of str object at 0x7f9a9f513d30>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Kirchsteiger Barbara 
+## Kirch
 
-Sprechstunde am Donnerstag um 9:25-10:15
+Sprechstunde am Dienstag um 10:30-11:20 in Raum: CH-Sammlung / 207 (2. OG)
 
 Fächer: Chemie,  Englisch
 

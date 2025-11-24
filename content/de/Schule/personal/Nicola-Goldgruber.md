@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ec930>-<built-in method lower of str object at 0x7f704ff01670>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc0ea0>-<built-in method lower of str object at 0x7f9a9fdfc5b0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 #  Goldgruber Nicola MEd BEd
+## Gold
 
-Sprechstunde am Montag um 10:30-11:20
+Sprechstunde am Montag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Englisch,  Italienisch,  Bewegung und Sport
 

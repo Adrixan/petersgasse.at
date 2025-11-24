@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507efde0>-<built-in method lower of str object at 0x7f70513250b0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51da10>-<built-in method lower of str object at 0x7f9a9fdbef70>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag. Wiesegger Rudolf BA
+## Wies
 
-Sprechstunde am  um Nach Vereinbarung!
+Sprechstunde am Mittwoch um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Deutsch,  Musik
 

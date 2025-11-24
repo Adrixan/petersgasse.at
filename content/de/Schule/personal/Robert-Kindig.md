@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ee520>-<built-in method lower of str object at 0x7f70507ee550>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc2430>-<built-in method lower of str object at 0x7f9a9fdc2460>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,12 +14,13 @@ draft = false
 <div class="column">
 
 # Mag. Dr. Kindig Robert 
+## Kin
 
-Sprechstunde am Mittwoch um 11:25-12:15
+Sprechstunde am Donnerstag um 10:30-11:20 in Raum: Schülerberatung / 216 (2. OG)
 
 Fächer: Deutsch,  Philosophie u. Psychologie
 
-
+KV der 5B
 
 
 

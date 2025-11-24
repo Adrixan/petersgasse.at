@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ee7c0>-<built-in method lower of str object at 0x7f70507d1a30>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc2610>-<built-in method lower of str object at 0x7f9a9f513a70>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,20 +14,21 @@ draft = false
 <div class="column">
 
 # Mag.a Klena-Pail Pamela 
+## Klen
 
-Sprechstunde am  um Nach Vereinbarung!
+Sprechstunde am Freitag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
-Fächer: 
-
-
-
+Fächer: Chemie,  Biologie
 
 
 
 
 
+## Kurse
 
 
+
+Oberstufe: Themenkurs
 
 
 

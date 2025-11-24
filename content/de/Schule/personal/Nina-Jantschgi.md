@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ed4d0>-<built-in method lower of str object at 0x7f70507f2130>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc15f0>-<built-in method lower of str object at 0x7f9a9f500f30>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,14 +14,15 @@ draft = false
 <div class="column">
 
 #  Jantschgi Nina BA MA
+## Jan
 
-Sprechstunde am Montag um 10:30-11:20
+Sprechstunde am Mittwoch um 11:25-12:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Katholische Religion
 
 
 
-
+KV (Stellvertretung) der 1C
 
 ## Kurse
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507d9770>-<built-in method lower of str object at 0x7f70507ee160>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f511ab0>-<built-in method lower of str object at 0x7f9a9fdc2130>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Keber Lena Fiona 
+## Keb
 
-Sprechstunde am Montag um 11:25-12:15
+Sprechstunde am Donnerstag um 8:30-9:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Deutsch,  Englisch
 

@@ -1,11 +1,13 @@
 
 +++
 identifier = "adminpersonen"
-date = "2025-09-05"
+date = "2025-11-24"
 draft = false
 +++
 {{< rawhtml >}}
 <h1>Administratives Personal:</h1>
+
+Für Kontaktmöglichkeiten, sowie Sprechstundentermine, klicken Sie bitte auf die entsprechende Person!
 
 
 
@@ -19,37 +21,32 @@ draft = false
         <tbody>
     
             <tr>
-                <td>Dr.in med. univ. Bilban-Schmuck Cordula</td>
+                <td><a href=/schule/personal/cordula-bilban-schmuck/>Bilban-Schmuck Cordula</a></td>
                 <td>Schulärztin</td>
             </tr>
         
             <tr>
-                <td>Dr.in med. univ. Kratzmüller Barbara</td>
+                <td><a href=/schule/personal/barbara-kratzmüller/>Kratzmüller Barbara</a></td>
                 <td>Schulärztin</td>
             </tr>
         
             <tr>
-                <td>Steinbauer Veronika</td>
+                <td><a href=/schule/personal/veronika-steinbauer/>Steinbauer Veronika</a></td>
                 <td>Sekretärin </td>
             </tr>
         
             <tr>
-                <td>Osmic Melisa</td>
-                <td>Verwaltungsassistentin</td>
-            </tr>
-        
-            <tr>
-                <td>Ass. Kovacevic Anto</td>
+                <td><a href=/schule/personal/anto-kovacevic/>Kovacevic Anto</a></td>
                 <td>leitender Schulwart</td>
             </tr>
         
             <tr>
-                <td>Pieberl Michael</td>
+                <td><a href=/schule/personal/michael-pieberl/>Pieberl Michael</a></td>
                 <td>Hauswart</td>
             </tr>
         
             <tr>
-                <td>Ficzko Margit</td>
+                <td><a href=/schule/personal/margit-ficzko/>Ficzko Margit</a></td>
                 <td>Schulbuffet</td>
             </tr>
         

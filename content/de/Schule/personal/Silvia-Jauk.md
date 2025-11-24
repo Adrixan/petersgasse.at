@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ed650>-<built-in method lower of str object at 0x7f70507ed680>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc1740>-<built-in method lower of str object at 0x7f9a9fdc1770>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Jauk Silvia 
+## Jauk
 
-Sprechstunde am  um Nach Vereinbarung!
+Sprechstunde am Freitag um 10:30-11:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Engllisch,  Geografie und Wirschaftsbildung
 

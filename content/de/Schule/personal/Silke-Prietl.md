@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ee040>-<built-in method lower of str object at 0x7f70507edfb0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51c570>-<built-in method lower of str object at 0x7f9a9f51c5a0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Prietl Silke 
+## Priet
 
-Sprechstunde am Mittwoch um 11:25-12:15
+Sprechstunde am Donnerstag um 10:30-11:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Geografie und Wirschaftsbildung,  Geschichte und Politische Bildung,  Informatik,  Digitale Grundbildung
 
@@ -29,7 +30,7 @@ KV (Stellvertretung) der 2C
 
 
 
-Koordination für: Geographie und wirtschafl. Bildung, Homepage/Lernplattform, Digitale Grundbildung
+Koordination für: Geographie und wirtschafl. Bildung, Homepage/Lernplattform, Digitale Grundbildung, Müllmanagement
 
 
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f705079ec10>-<built-in method lower of str object at 0x7f705079ec40>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fd97450>-<built-in method lower of str object at 0x7f9a9fd97480>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Angerer Christa 
+## Anger
 
-Sprechstunde am Mittwoch um 9:25-10:15
+Sprechstunde am Donnerstag um 10:30-11:20 in Raum: Bio-Sammlung / 205 (2. OG)
 
 Fächer: Bewegung und Sport,  Biologie und Umweltbildung
 

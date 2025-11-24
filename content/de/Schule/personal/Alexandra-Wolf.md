@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507df370>-<built-in method lower of str object at 0x7f70507efc00>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdbe0f0>-<built-in method lower of str object at 0x7f9a9f51db90>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 #  Wolf Alexandra BEd MEd
+## Wolf
 
-Sprechstunde am Mittwoch um 12:15-13:05
+Sprechstunde am Montag um 8:30-9:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Englisch,  Latein
 
@@ -29,7 +30,7 @@ Unterstufe: Juniorkurs: Bühnenspiel
 
 
 
-Koordination für: Theater
+Koordination für: Theater, Begabungsförderung, Sicherheitsvertrauensperson
 
 Nachmittagsbetreuung
 

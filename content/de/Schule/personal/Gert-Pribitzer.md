@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ee370>-<built-in method lower of str object at 0x7f70507d9570>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51c330>-<built-in method lower of str object at 0x7f9a9fdfc9f0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # MMag. Pribitzer Gert 
+## Prib
 
-Sprechstunde am Montag um 11:25-12:15
+Sprechstunde am Montag um 11:25-12:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Kunst und Gestaltung,  Technik und Design
 
@@ -29,7 +30,7 @@ KV (Stellvertretung) der 2A
 
 Oberstufe: Themenkurs
 
-Koordination für: Jahresbericht
+Koordination für: Kunst & Gestaltung, Technik & Design, Jahresbericht
 
 
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f704ff0a7f0>-<built-in method lower of str object at 0x7f70507ef570>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f508870>-<built-in method lower of str object at 0x7f9a9fdc36f0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,13 +14,11 @@ draft = false
 <div class="column">
 
 # DI Leitich Johannes 
+## Lei
 
-Sprechstunde am  um Nach Vereinbarung!
+Sprechstunde am Dienstag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
-Fächer: 
-
-
-
+Fächer: Kunst und Gestaltung,  Technik und Design
 
 
 
@@ -31,7 +29,10 @@ Fächer:
 
 
 
-Nachmittagsbetreuung
+
+Koordination für: Krisenintervention
+
+
 
 </div>
 </div> 

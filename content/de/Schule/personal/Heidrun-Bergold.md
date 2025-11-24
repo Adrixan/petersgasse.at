@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f705079f510>-<built-in method lower of str object at 0x7f705079f540>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fd97ba0>-<built-in method lower of str object at 0x7f9a9fd97c60>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # MMag.a Bergold Heidrun 
+## Ber
 
-Sprechstunde am Montag um 11:25-12:15
+Sprechstunde am Mittwoch um 8:30-9:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Bewegung und Sport,  Mathematik
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ec300>-<built-in method lower of str object at 0x7f70507fba70>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc1080>-<built-in method lower of str object at 0x7f9a9fdfdab0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Gschwendner Nikola 
+## Gschw
 
-Sprechstunde am Mittwoch um 8:30-9:20
+Sprechstunde am Donnerstag um 10:30-11:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Englisch,  Musik
 
@@ -29,7 +30,7 @@ KV der 3C
 
 
 
-Koordination für: Musik, Schulkalender, SA-Plan, Sokrates, Sommerschule
+Koordination für: Musik, Jugendrotkreuz, Sommerschule
 
 Nachmittagsbetreuung
 

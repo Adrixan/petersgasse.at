@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507efea0>-<built-in method lower of str object at 0x7f704ff09db0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51d8f0>-<built-in method lower of str object at 0x7f9a9fddccb0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,14 +14,15 @@ draft = false
 <div class="column">
 
 # Mag.a Weiß Anna BA MA
+## Weiß
 
-Sprechstunde am Dienstag um 8:30-9:20
+Sprechstunde am Freitag um 10:30-11:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Deutsch,  Physik
 
 
 
-
+KV (Stellvertretung) der 5A
 
 
 

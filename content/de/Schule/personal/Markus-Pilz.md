@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ee610>-<built-in method lower of str object at 0x7f70507ee5e0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51c240>-<built-in method lower of str object at 0x7f9a9f51c270>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,14 +14,15 @@ draft = false
 <div class="column">
 
 # Mag. Pilz Markus 
+## Pilz
 
-Sprechstunde am Mittwoch um 10:30-11:20
+Sprechstunde am Mittwoch um 10:30-11:20 in Raum: Bio-Sammlung / 205 (2. OG)
 
 Fächer: Biologie und Umweltbildung,  Chemie,  Digitale Grundbildung
 
 
 
-KV (Stellvertretung) der 5A
+
 
 ## Kurse
 
@@ -29,7 +30,7 @@ Unterstufe: Juniorkurs: Fragen - Forschen - Experimentieren
 
 
 
-Koordination für: Individuelle Lernbegleitung (ILB), MIT (Mobbing I. T.), Schulwerbung (PR), Umwelterziehung
+Koordination für: Individuelle Lernbegleitung (ILB), Umwelterziehung, MIT (Mobbing I. T.), Schulwerbung (PR), 
 
 
 

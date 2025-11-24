@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f705079e430>-<built-in method lower of str object at 0x7f70507c65b0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fd96eb0>-<built-in method lower of str object at 0x7f9a9fdbdcf0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 #  Aichholzer Niklas BEd
+## Aich
 
-Sprechstunde am Dienstag um 10:30-11:20
+Sprechstunde am Donnerstag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Mathematik,  Physik
 
@@ -29,7 +30,7 @@ KV der 2C
 
 Oberstufe: Themenkurs
 
-
+Koordination für: MIT (Mobbing I. T.)
 
 Nachmittagsbetreuung
 

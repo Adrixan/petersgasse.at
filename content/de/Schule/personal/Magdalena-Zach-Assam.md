@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507dabf0>-<built-in method lower of str object at 0x7f70507db8b0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f519ef0>-<built-in method lower of str object at 0x7f9a9f519f70>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Zach-Assam Magdalena 
+## Ass
 
-Sprechstunde am Montag um 8:30-9:20
+Sprechstunde am  um Nach Vereinbarung! in Raum: 
 
 Fächer: Bewegung und Sport,  Biologie und Umweltbildung
 
@@ -29,7 +30,7 @@ Fächer: Bewegung und Sport,  Biologie und Umweltbildung
 
 Oberstufe: Themenkurs
 
-Koordination für: Kinderschutz
+
 
 
 

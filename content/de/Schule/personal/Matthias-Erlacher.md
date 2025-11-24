@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507f9730>-<built-in method lower of str object at 0x7f70507f98f0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdede30>-<built-in method lower of str object at 0x7f9a9fdedf30>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag. Erlacher Matthias 
+## Erl
 
-Sprechstunde am  um Nach Vereinbarung!
+Sprechstunde am  um Nach Vereinbarung! in Raum: 
 
 Fächer: Bewegung und Sport,  Physik
 
@@ -29,7 +30,7 @@ Fächer: Bewegung und Sport,  Physik
 
 Oberstufe: Themenkurs
 
-Koordination für: Energiesparen/Contracting
+
 
 
 

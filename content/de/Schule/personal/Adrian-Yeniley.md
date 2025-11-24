@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507efab0>-<built-in method lower of str object at 0x7f70507ef870>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51dd10>-<built-in method lower of str object at 0x7f9a9f51dd40>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,13 +14,11 @@ draft = false
 <div class="column">
 
 #  Yeniley Adrian Bed
+## Yen
 
-Sprechstunde am  um Nach Vereinbarung!
+Sprechstunde am Montag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
-Fächer: 
-
-
-
+Fächer: Bewegung und Sport
 
 
 
@@ -30,6 +28,9 @@ Fächer:
 
 
 
+
+
+Koordination für: Kinderschutz
 
 Nachmittagsbetreuung
 

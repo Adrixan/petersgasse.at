@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ed9e0>-<built-in method lower of str object at 0x7f70507dfeb0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51cab0>-<built-in method lower of str object at 0x7f9a9fdef8f0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag. Schaunitzer Lukas 
+## Schalu
 
-Sprechstunde am Donnerstag um 13:10-14:00
+Sprechstunde am  um Nach Vereinbarung! in Raum: 
 
 Fächer: Bewegung und Sport,  Informatik,  Digitale Grundbildung
 

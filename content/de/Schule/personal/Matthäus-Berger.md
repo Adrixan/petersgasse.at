@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ce060>-<built-in method lower of str object at 0x7f705079f1e0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fde1b60>-<built-in method lower of str object at 0x7f9a9fd978d0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -13,12 +13,14 @@ draft = false
 </div>
 <div class="column">
 
-#  Berger Matthäus BEd
+#  Berger Matthäus BEd MEd
+## BeM
 
-Sprechstunde am Freitag um 10:30-11:20
+Sprechstunde am Mittwoch um 8:30-9:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Geschichte und Politische Bildung,  Katholische Religion
 
+KV der 3B
 
 
 
@@ -28,8 +30,7 @@ Fächer: Geschichte und Politische Bildung,  Katholische Religion
 
 
 
-
-Koordination für: Geschichte u. Politische Bildung, Krisenintervention, Politische Bildung
+Koordination für: Geschichte u. Politische Bildung, Krisenintervention, Politische Bildung, Ethik
 
 
 

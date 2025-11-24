@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507eefa0>-<built-in method lower of str object at 0x7f70507c6230>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc3150>-<built-in method lower of str object at 0x7f9a9f5094f0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Krassnigg Theresa 
+## Kras
 
-Sprechstunde am Donnerstag um 7:35-8:25
+Sprechstunde am  um Nach Vereinbarung! in Raum: 
 
 Fächer: Englisch,  Mathematik
 
@@ -29,7 +30,7 @@ Fächer: Englisch,  Mathematik
 
 
 
-Koordination für: Englisch
+
 
 Nachmittagsbetreuung
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507edfe0>-<built-in method lower of str object at 0x7f70507ee010>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc1f20>-<built-in method lower of str object at 0x7f9a9fdc1f50>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Kant Sirin 
+## Kant
 
-Sprechstunde am Mittwoch um 10:30-11:20
+Sprechstunde am Mittwoch um 11:25-12:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Digitale Grundbildung,  Evangelische Religion
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f704ff00670>-<built-in method lower of str object at 0x7f70507ef9c0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fddf230>-<built-in method lower of str object at 0x7f9a9f51d4a0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Valorz Veronika 
+## Val
 
-Sprechstunde am Donnerstag um 10:30-11:20
+Sprechstunde am Mittwoch um 8:30-9:20 in Raum: Konferenzzimmer / E24
 
 Fächer: Englisch,  Italienisch
 
@@ -29,7 +30,7 @@ Unterstufe: Juniorkurs: Italienisch für Anfänger:innen
 
 
 
-
+Koordination für: Erasmus
 
 
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507eec70>-<built-in method lower of str object at 0x7f70507c9930>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdc2ee0>-<built-in method lower of str object at 0x7f9a9f511730>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,10 +14,11 @@ draft = false
 <div class="column">
 
 # Mag.a Korachai Eirini 
+## KoE
 
-Sprechstunde am Montag um 9:25-10:15
+Sprechstunde am Donnerstag um 11:25-12:15 in Raum: Konferenzzimmer / E24
 
-Fächer: Kunst und Gestaltung,  Technisches Design
+Fächer: Kunst und Gestaltung,  Technik und Design
 
 
 

@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507fa6f0>-<built-in method lower of str object at 0x7f70507ec120>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fdfea70>-<built-in method lower of str object at 0x7f9a9fdc1200>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 #  Haas Christina BEd MEd
+## Haas
 
-Sprechstunde am Freitag um 11:25-12:15
+Sprechstunde am Mittwoch um 11:25-12:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Englisch,  Geografie und Wirtschaftsbildung
 

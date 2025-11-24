@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f705079efa0>-<built-in method lower of str object at 0x7f705079efd0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9fd976f0>-<built-in method lower of str object at 0x7f9a9fd97720>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # DI Aufner Peter MSc
+## Auf
 
-Sprechstunde am Freitag um 8:30-9:20
+Sprechstunde am Mittwoch um 10:30-11:20 in Raum: Bibliothek / E16
 
 Fächer: Digitale Grundbildung,  Informatik
 
@@ -29,7 +30,7 @@ Unterstufe: Basiskurs,  Juniorkurs: Codes and Robots
 
 Oberstufe: Themenkurs
 
-Koordination für: Geräteinitiative „Digitales Lernen“
+Koordination für: Geräteinitiative „Digitales Lernen“, Schulwerbung (PR)
 
 
 

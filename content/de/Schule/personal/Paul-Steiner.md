@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ed140>-<built-in method lower of str object at 0x7f70507ec270>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51cf00>-<built-in method lower of str object at 0x7f9a9f51cf30>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag. Steiner Paul 
+## Stein
 
-Sprechstunde am Mittwoch um 10:30-11:20
+Sprechstunde am Dienstag um 9:25-10:15 in Raum: Konferenzzimmer / E24
 
 Fächer: Bewegung und Sport,  Geografie und Wirtschaftsbildung
 
@@ -29,7 +30,7 @@ Unterstufe: Juniorkurs: Fußball
 
 
 
-
+Koordination für: Bewegung und Sport
 
 Nachmittagsbetreuung
 

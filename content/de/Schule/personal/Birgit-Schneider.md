@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f70507ed620>-<built-in method lower of str object at 0x7f70507e79b0>"
-date = "2025-09-05"
+identifier = "<built-in method lower of str object at 0x7f9a9f51ccf0>-<built-in method lower of str object at 0x7f9a9fded1b0>"
+date = "2025-11-24"
 draft = false
 +++
 
@@ -14,8 +14,9 @@ draft = false
 <div class="column">
 
 # Mag.a Schneider Birgit 
+## Schne
 
-Sprechstunde am Montag um 9:25-10:15
+Sprechstunde am Montag um 8:30-9:20 in Raum: Bibliothek / E16
 
 Fächer: Deutsch,  Geografie und Wirschaftsbildung,  Spanisch
 
