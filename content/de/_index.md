@@ -9,6 +9,8 @@ date = "2019-02-28"
 
 Terminvergabe für einen Schnuppertag erfolgt ausschließlich an diesem Tag persönlich im Sekretariat (Achtung: begrenzte Anzahl)
 
+## Achtung: Neue Adresse für [WebUntis](https://petersgasse.webuntis.com/) unter [https://petersgasse.webuntis.com/](https://petersgasse.webuntis.com/)
+
 ![Beim Lesen](/images/homepage_banner.jpg)
 
 # ... und inzwischen ...
