@@ -25,7 +25,7 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 
 # Wichtige Links
 
-* [WebUntis](https://urania.webuntis.com/WebUntis/?school=brg-petersgasse#/basic/login)
+* [WebUntis](https://petersgasse.webuntis.com/)
 * [Webmail OUTLOOK](http://www.outlook.com/petersgasse.at)
 * [EDUVIDUAL-Lernplattform](https://www.eduvidual.at/local/eduvidual/pages/login.php)
 * [Schulbibliothek](https://petersgasse.at/index.php/links/30-allgemein-schulbibliothek/46-schulbibliothek)
