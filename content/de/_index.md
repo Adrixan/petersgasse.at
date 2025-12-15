@@ -9,7 +9,7 @@ date = "2019-02-28"
 
 Terminvergabe für einen Schnuppertag erfolgt ausschließlich an diesem Tag persönlich im Sekretariat (Achtung: begrenzte Anzahl)
 
-## Achtung: Neue Adresse für [WebUntis](https://petersgasse.webuntis.com/) unter [https://petersgasse.webuntis.com/](https://petersgasse.webuntis.com/)
+## Achtung: Neue Adresse für [WebUntis](https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login) unter [https://petersgasse.webuntis.com/](https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login)
 
 ![Beim Lesen](/images/homepage_banner.jpg)
 
@@ -27,14 +27,14 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 
 # Wichtige Links
 
-* [WebUntis](https://petersgasse.webuntis.com/)
+* [WebUntis](https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login)
 * [Webmail OUTLOOK](http://www.outlook.com/petersgasse.at)
 * [EDUVIDUAL-Lernplattform](https://www.eduvidual.at/local/eduvidual/pages/login.php)
 * [Schulbibliothek](https://petersgasse.at/index.php/links/30-allgemein-schulbibliothek/46-schulbibliothek)
 * [Portal](https://www.portal.at/pat/public/loginform?target=https://www.portal.at/pat/private&smquerydata=&smauthreason=0)
 
 # Wichtige Dokumente zur Anmeldung
-* [Aufnahmeansuchen](</Aufnahmeansuchen 2. - 8. Klasse.pdf>)
+* [Aufnahmeansuchen 2.-8. Klasse](</Aufnahmeansuchen 2. - 8. Klasse.pdf>)
 
 # Wichtige Infos für das Leben im Schulgebäude
 
