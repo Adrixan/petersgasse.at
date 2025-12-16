@@ -4,12 +4,15 @@ date = "2019-02-28"
 +++
 # Unsere Schule stellt sich vor...
 
+## Weihnachtsfeier am 18.12.
+
+Liebe Schulgemeinschaft!
+
+Wir laden euch herzlich zur unserer Weihnachtsfeier am Donnerstag den 18.12. um 18:00 in die Aula des BRG Petersgasse ein!
 
 ## Tag der offenen Tür: Samstag, 17. Jänner 2026 (08:30-12:00 Uhr)
 
 Terminvergabe für einen Schnuppertag erfolgt ausschließlich an diesem Tag persönlich im Sekretariat (Achtung: begrenzte Anzahl)
-
-## Achtung: Neue Adresse für [WebUntis](https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login) unter [https://petersgasse.webuntis.com/](https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login)
 
 ![Beim Lesen](/images/homepage_banner.jpg)
 
