@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f9a9fdec7f0>-<built-in method lower of str object at 0x7f9a9fdc0300>"
-date = "2025-11-24"
+identifier = "<built-in method lower of str object at 0x7f185d3ef570>-<built-in method lower of str object at 0x7f185d3a7330>"
+date = "2025-12-23"
 draft = false
 +++
 
@@ -9,7 +9,7 @@ draft = false
 
 <div class="row">
 <div class="column">
-<img src="/images/personal/Cagran.jpg" alt="Angelika Cagran"> 
+<img src="/images/personal/Cagran.jpg" alt="Angelika Cagran">
 </div>
 <div class="column">
 
