@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f31be0bd2f0>-<built-in method lower of str object at 0x7f31be0bd380>"
-date = "2025-12-23"
+identifier = "<built-in method lower of str object at 0x7f6aa2d9fd20>-<built-in method lower of str object at 0x7f6aa2d9fd50>"
+date = "2026-01-08"
 draft = false
 +++
 
@@ -30,7 +30,7 @@ KV der 1C
 
 
 
-
+Koordination für: Geographie und wirtschafl. Bildung
 
 
 

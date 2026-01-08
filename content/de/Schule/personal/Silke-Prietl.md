@@ -1,7 +1,7 @@
 
 +++
-identifier = "<built-in method lower of str object at 0x7f31be0bcf30>-<built-in method lower of str object at 0x7f31be0bfa20>"
-date = "2025-12-23"
+identifier = "<built-in method lower of str object at 0x7f6aa2df5c50>-<built-in method lower of str object at 0x7f6aa2df5c80>"
+date = "2026-01-08"
 draft = false
 +++
 
@@ -30,7 +30,7 @@ KV (Stellvertretung) der 2C
 
 
 
-Koordination für: Geographie und wirtschafl. Bildung, Homepage/Lernplattform, Digitale Grundbildung, Müllmanagement
+Koordination für: Müllmanagement
 
 
 
