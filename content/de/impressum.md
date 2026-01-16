@@ -51,3 +51,13 @@ Wenn Sie in Ihrem YouTube-Account eingeloggt sind ermöglichen Sie YouTube, Ihr 
 ## Haftung für Links
 
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+
+
+## Datenerhebung zur Schulanmeldung 
+
+Die Daten werden auf Basis der einschlägigen gesetzlichen Bestimmungen (insbes. § 5 SchUG, BilDokG) zur Erfassung im Schulverwaltungssystem Sokrates erhoben. 
+Ihre Daten werden von der Schulleitung verarbeitet und im Rahmen der gesetzlichen Meldepflichten an die zuständigen Behörden weitergegeben. 
+Das Onlineformular dient ausschließlich der Datenerfassung. Nach Abschluss der Anmeldephase werden die Daten ins Schulverwaltungssystem (Sokrates) übertragen und das Online-Formular wird umgehend gelöscht. 
+Für die Bereitstellung des Formulars nutzen wir Microsoft 365 (Microsoft Ireland Operations Ltd.) auf Basis des Rahmenvertrags des BMBWF (Bundesministerium für Bildung, Wissenschaft und Forschung). Die Datenverarbeitung erfolgt in Rechenzentren innerhalb der Europäischen Union. 
+Sie haben das Recht auf Auskunft, Berichtigung und Löschung Ihrer Daten, soweit dem keine gesetzlichen Aufbewahrungsfristen entgegenstehen. 
+Sollte die Datenerfassung auf digitalem Weg für Sie nicht möglich sein, können Sie die nötigen Unterlagen auch händisch in der Schule ausfüllen.
