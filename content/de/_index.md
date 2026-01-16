@@ -8,6 +8,8 @@ date = "2019-02-28"
 
 Terminvergabe für einen Schnuppertag erfolgt ausschließlich an diesem Tag persönlich im Sekretariat (Achtung: begrenzte Anzahl)
 
+### Alle Infos zur Anmeldung der 1. Klassen für das Schuljahr 2026/27 finden Sie [hier]( {{< relref "Blog/anmeldung-2026.md" >}} )
+
 ![Beim Lesen](/images/homepage_banner.jpg)
 
 # ... und inzwischen ...
