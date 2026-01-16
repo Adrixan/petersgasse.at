@@ -58,7 +58,7 @@ a.nav__link--active {
   color: #6a9a7f;
 }
 
-a, a:visited {
+a, a:visited, .theme--dark .post__content h3 a, .theme--dark .post__content a {
   color: #6a9a7f;
 }
 
