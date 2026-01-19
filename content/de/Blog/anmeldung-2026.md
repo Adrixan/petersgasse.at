@@ -18,6 +18,11 @@ ACHTUNG: Hierbei handelt es sich noch NICHT um die definitive Anmeldung! Die Anm
 
 Bitte wählen Sie nach der Erfassung der Stammdaten [hier einen Termin für die Anmeldung in der Schule im offiziellen Anmeldezeitraum](https://outlook.office.com/bookwithme/user/03247d9a34ae4ee0b732e4403a0aef49@petersgasse.at/meetingtype/6XAoM_2290CDbYrf1OKgIQ2?bookingcode=88936252-2186-47cc-8c35-c947b193d1d4&anonymous&ep=mcard) und bestätigen Sie den Termin mithilfe des per Mail zugesandten Codes. Das garantiert Ihnen, dass es zu keinen unnötigen Wartezeiten während der Anmeldephase kommt.
 
+Mögliche Termine:
+
+* Montags, Mittwochs, Freitags: 8:30 Uhr - 13:30 Uhr
+* Dienstags, Donnerstags: 11:00 Uhr - 15:00 Uhr
+
 # Abschluss - Anmeldung in der Schule von 23.02. bis 06.03.2026
 
 Ihre Anmeldung wird verbindlich, wenn sie die nötigen Dokumente an dem von Ihnen gewählten Termin in der Schule vorlegen und die von Ihnen vorab erfassten Daten mit Ihrer Unterschrift bestätigen.
