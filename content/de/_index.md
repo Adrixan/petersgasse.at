@@ -44,7 +44,8 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 
 # Unterstützungangebote innerhalb der Schule
 
-[Schüler:innen Beratung]( {{< relref "schule/unterstuetzung.md" >}} )
+* [Schüler:innen Beratung]( {{< relref "schule/unterstuetzung.md" >}} )
+* [Schulpsychologie](</Infoblatt_Schulpsychologie.pdf>)
 
 # Unterstützungsangebote außerhalb der Schule
 
