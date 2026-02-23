@@ -1,7 +1,7 @@
 
 +++
 identifier = "lehrpersonal"
-date = "2026-01-08"
+date = "2026-02-23"
 draft = false
 +++
 
