@@ -2,11 +2,30 @@
 identifier = 'start'
 date = "2019-02-28"
 +++
-# Unsere Schule stellt sich vor...
+# Unsere Schule feiert ...
 
-![Beim Lesen](/images/homepage_banner.jpg)
+... zuerst ...
 
-# ... und inzwischen ...
+<img src="/images/40er.png" alt="40er Jahre Feier" style="width: 35%; height: auto;">
+
+## Unsere 40 Jahre Feier!
+
+* Am: 4.7.2026
+* Um: 14:00
+* In: Der Aula unserer Schule
+* Anmeldung: Bitte vorab via E-Mail!
+
+# ... und dann ...
+
+<img src="/images/schulfest.png" alt="Schulfest" style="width: 35%; height: auto;">
+
+## Unser Schulfest!
+
+* Am: 4.7.2026
+* Um: 16:00
+* Am: Schulgelände
+
+# ... und sonst ...
 
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
