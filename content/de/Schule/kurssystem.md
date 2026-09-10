@@ -12,8 +12,8 @@ date = "2019-02-28"
 
 # Juniorkurssystem
 
-* [Informationen zum Juniorkurssystem](/Informationen_Homepage_Juniorkurssystem.pdf)
-* [Juniorkursbuch](</Juniorkursbuch 2025_26.pdf>)
+* [Informationen zum Juniorkurssystem](/Informationen_Juniorkurssystem.pdf)
+* [Juniorkursbuch](</Juniorkursbuch.pdf>)
 
 
 Die folgenden zwei Links sind nur innerhalb des Schulnetzwerkes erreichbar:

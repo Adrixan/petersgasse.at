@@ -2,39 +2,16 @@
 identifier = 'start'
 date = "2019-02-28"
 +++
-# Unsere Schule feiert ...
 
-... zuerst ...
-
-<img src="/images/40er.png" alt="40er Jahre Feier" style="width: 35%; height: auto;">
-
-## Unsere 40 Jahre Feier!
-
-* Am: 4.7.2026
-* Um: 14:00
-* In: Der Aula unserer Schule
-* Anmeldung: Bitte vorab via E-Mail!
-
-# ... und dann ...
-
-<img src="/images/schulfest.png" alt="Schulfest" style="width: 35%; height: auto;">
-
-## Unser Schulfest!
-
-* Am: 4.7.2026
-* Um: 16:00
-* Am: Schulgelände
-
-# ... und sonst ...
+<iframe src="https://petersgasse-my.sharepoint.com/personal/matthias_erlacher_petersgasse_at/_layouts/15/embed.aspx?UniqueId=2c3ce278-1c04-4ae6-9999-32458602d156&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Afalse%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Video_querformat_Schule_final_0307_Abend.mp4"></iframe>
 
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
-* [Liste der Sprechstunden](/Sprechtstundenliste.pdf)
-* [1. Mitteilungsblatt 2025/26](</1. Mitteilungsblatt SJ 2025.26.pdf>)
-* [Ablauf 1. Schulwoche 2025/26](</Ablauf erste Schulwoche SJ 2025.26.pdf>)
-* [Hinweise und Infos zur Nachmittagsbetreuung](</Nachmittagsbetreuung_Allgemeine Informationen.pdf>)
-* [Juniorkursbuch](</Juniorkursbuch 2025_26.pdf>)
+* [1. Mitteilungsblatt 2026/27](</1. Mitteilungsblatt.pdf>)
+* [Ablauf 1. Schulwoche 2026/27](</Ablauf erste Schulwoche.pdf>)
+* [Hinweise und Infos zur Nachmittagsbetreuung](</Nachmittagsbetreuung.pdf>)
+* [Juniorkursbuch](</Juniorkursbuch.pdf>)
 * [Anleitung zur Verwendung von WebUntis](</infoblatt_webuntis.pdf>)
 
 # Wichtige Links
@@ -52,11 +29,12 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 
 * [Hausordnung](</Hausordnung.pdf>)
 * [Verhaltensvereinbarungen](/Verhaltensvereinbarungen.pdf)
-* [Gebrauch elektronischer Geräte](</Gebrauch elektronischer Geräte SJ 2025.26.pdf>)
+* [Gebrauch elektronischer Geräte](</Gebrauch elektronischer Geräte.pdf>)
 * [Raumplan](</Raumplan.pdf>)
 
 # Unterstützungangebote innerhalb der Schule
 
+* [Sprechstunden Schulärztinnen](</Sprechstunden-Schulärztinnen.pdf>)
 * [Schüler:innen Beratung]( {{< relref "schule/unterstuetzung.md" >}} )
 * [Schulpsychologie](</Infoblatt_Schulpsychologie.pdf>)
 
