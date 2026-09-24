@@ -77,6 +77,33 @@ a, a:visited, .theme--dark .post__content h3 a, .theme--dark .post__content a {
   padding: 0px;
 }
 
+/* Box sizing & viewport containment */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe, embed, object {
+  max-width: 100%;
+}
+
+table {
+  max-width: 100%;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+}
+
 .column {
   float: left;
   width: 50%;
@@ -87,4 +114,71 @@ a, a:visited, .theme--dark .post__content h3 a, .theme--dark .post__content a {
   content: "";
   display: table;
   clear: both;
+}
+
+/* Video action card */
+.video-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 24px;
+  text-align: center;
+  margin-bottom: 24px;
+  background-color: #f8fafc;
+}
+
+.video-card__icon {
+  font-size: 3rem;
+  color: #6a9a7f;
+  margin-bottom: 8px;
+}
+
+.video-card__title {
+  margin: 0 0 8px 0;
+  font-size: 1.6rem;
+  color: #1e2e3e;
+}
+
+.video-card__text {
+  margin: 0 0 16px 0;
+  color: #7280ae;
+}
+
+.video-card__button {
+  display: inline-block;
+  background-color: #6a9a7f;
+  color: #ffffff !important;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.video-card__button:hover {
+  background-color: #58836c;
+}
+
+/* Mobile responsive adjustments */
+@media screen and (max-width: 960px) {
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 10;
+  }
+
+  .navbar-burger {
+    margin-right: 16px;
+  }
+
+  .post {
+    margin: 20px 15px;
+  }
+
+  .column {
+    float: none;
+    width: 100%;
+  }
 }
