@@ -8,7 +8,9 @@
 * Resolved persistent navigation dropdowns by overriding `anatole-header.js` with mutual exclusivity between dropdowns, click-outside detection, Escape key dismissal, and link-click closure.
 
 * Resolved Hugo v0.158+ deprecation warnings: updated `languageCode` to `locale` and `languages.de.languageName` to `label` in `config/_default/hugo.toml`, and resolved template deprecations (`.Language.Direction` and `.Site.Language.Locale`) across layout overrides (`baseof.html`, `head.html`, `schema.html`, `rss.xml`).
+* Cleaned 45 orphaned artifacts from `public/` (old school year PDFs, deprecated CSS/JS hash bundles, deleted pages) and configured `cleanDestinationDir = true` in `config/_default/hugo.toml` to automatically purge stale files on all subsequent builds.
 
 ## Current State
+* Local `public/` directory contains strictly current build files (283 files).
 * Hugo build executes cleanly with zero warnings or errors.
 
