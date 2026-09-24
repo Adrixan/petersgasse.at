@@ -7,6 +7,8 @@
 * Resolved mobile horizontal viewport overflow by applying universal `box-sizing: border-box`, overflow clipping, responsive rules for media/tables, and properly pinning `.header` with right margin on `.navbar-burger`.
 * Resolved persistent navigation dropdowns by overriding `anatole-header.js` with mutual exclusivity between dropdowns, click-outside detection, Escape key dismissal, and link-click closure.
 
+* Resolved Hugo v0.158+ deprecation warnings: updated `languageCode` to `locale` and `languages.de.languageName` to `label` in `config/_default/hugo.toml`, and resolved template deprecations (`.Language.Direction` and `.Site.Language.Locale`) across layout overrides (`baseof.html`, `head.html`, `schema.html`, `rss.xml`).
+
 ## Current State
-* Working directory clean, changes staged, committed, and pushed to `main`.
-* Hugo build passes cleanly with zero errors.
+* Hugo build executes cleanly with zero warnings or errors.
+

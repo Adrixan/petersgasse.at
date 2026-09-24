@@ -1,6 +1,6 @@
 title = "BRG Petersgasse"
 baseURL = "https://www.petersgasse.at"
-languageCode = "de"
+locale = "de"
 theme = ["anatole"]
 DefaultContentLanguage = "DE"
 
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 [languages.de]
 title = "BRG Petersgasse"
 contentDir = "content/de"
-languageName = "DE"
+label = "DE"
 weight = 1
 
 [sitemap]
