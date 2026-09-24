@@ -116,48 +116,6 @@ table {
   clear: both;
 }
 
-/* Video action card */
-.video-card {
-  border: 1px solid #e0e0e0;
-  border-radius: 6px;
-  padding: 24px;
-  text-align: center;
-  margin-bottom: 24px;
-  background-color: #f8fafc;
-}
-
-.video-card__icon {
-  font-size: 3rem;
-  color: #6a9a7f;
-  margin-bottom: 8px;
-}
-
-.video-card__title {
-  margin: 0 0 8px 0;
-  font-size: 1.6rem;
-  color: #1e2e3e;
-}
-
-.video-card__text {
-  margin: 0 0 16px 0;
-  color: #7280ae;
-}
-
-.video-card__button {
-  display: inline-block;
-  background-color: #6a9a7f;
-  color: #ffffff !important;
-  padding: 10px 20px;
-  border-radius: 4px;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background-color 0.2s ease;
-}
-
-.video-card__button:hover {
-  background-color: #58836c;
-}
-
 /* Mobile responsive adjustments */
 @media screen and (max-width: 960px) {
   .header {

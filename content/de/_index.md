@@ -3,17 +3,6 @@ identifier = 'start'
 date = "2019-02-28"
 +++
 
-<div class="video-card">
-  <div class="video-card__icon">
-    <i class="fas fa-play-circle" aria-hidden="true"></i>
-  </div>
-  <h2 class="video-card__title">Video unserer Schule</h2>
-  <p class="video-card__text">Das Video über das BRG Petersgasse direkt auf Microsoft Stream ansehen:</p>
-  <a class="video-card__button" href="https://petersgasse-my.sharepoint.com/personal/matthias_erlacher_petersgasse_at/_layouts/15/embed.aspx?UniqueId=2c3ce278-1c04-4ae6-9999-32458602d156&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Afalse%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-external-link-alt" aria-hidden="true"></i> Video abspielen (Microsoft Stream)
-  </a>
-</div>
-
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
