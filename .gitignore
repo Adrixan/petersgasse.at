@@ -14,3 +14,7 @@ hugo.linux
 
 # Files for deployment
 /static/
+
+# Scratch & local tooling
+/.scratch/
+.env

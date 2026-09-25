@@ -74,4 +74,26 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   });
+
+  // 6. Ensure silent autoplay for hero video across mobile and desktop browsers
+  const indexVideo = document.querySelector('video.index-video');
+  if (indexVideo) {
+    indexVideo.defaultMuted = true;
+    indexVideo.muted = true;
+    const playPromise = indexVideo.play();
+    if (playPromise !== undefined) {
+      playPromise.catch(() => {
+        // Autoplay policy prevented immediate playback; trigger on first user interaction
+        const resumePlayback = () => {
+          indexVideo.play();
+          window.removeEventListener('touchstart', resumePlayback, { passive: true });
+          window.removeEventListener('scroll', resumePlayback, { passive: true });
+          window.removeEventListener('click', resumePlayback);
+        };
+        window.addEventListener('touchstart', resumePlayback, { passive: true, once: true });
+        window.addEventListener('scroll', resumePlayback, { passive: true, once: true });
+        window.addEventListener('click', resumePlayback, { once: true });
+      });
+    }
+  }
 });

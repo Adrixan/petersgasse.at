@@ -92,6 +92,23 @@ img, video {
   height: auto;
 }
 
+.video-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 2.5rem auto;
+}
+
+.index-video {
+  width: 100%;
+  max-width: 852px;
+  aspect-ratio: 71 / 40;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  background-color: #000000;
+  display: block;
+}
+
 iframe, embed, object {
   max-width: 100%;
 }

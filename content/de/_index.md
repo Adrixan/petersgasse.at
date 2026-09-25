@@ -3,6 +3,36 @@ identifier = 'start'
 date = "2019-02-28"
 +++
 
+<div class="video-container">
+  <video class="index-video" src="/Schulvideo_480p.mp4" autoplay muted defaultMuted playsinline webkit-playsinline loop controls preload="auto" poster="/images/schulvideo-poster.webp">
+    <source src="/Schulvideo_480p.mp4" type="video/mp4">
+    Ihr Browser unterstützt dieses Videoformat leider nicht.
+  </video>
+  <script>
+    (function() {
+      var v = document.querySelector('video.index-video');
+      if (v) {
+        v.defaultMuted = true;
+        v.muted = true;
+        var p = v.play();
+        if (p && p.catch) {
+          p.catch(function() {
+            var resume = function() {
+              v.play();
+              window.removeEventListener('touchstart', resume, { passive: true });
+              window.removeEventListener('scroll', resume, { passive: true });
+              window.removeEventListener('click', resume);
+            };
+            window.addEventListener('touchstart', resume, { passive: true, once: true });
+            window.addEventListener('scroll', resume, { passive: true, once: true });
+            window.addEventListener('click', resume, { once: true });
+          });
+        }
+      }
+    })();
+  </script>
+</div>
+
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
