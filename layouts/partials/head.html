@@ -133,6 +133,11 @@
       type="text/css"
     />
   {{- end -}}
+  <!-- Preload primary corporate identity webfonts -->
+  <link rel="preload" href="/fonts/source-sans-3/SourceSans3-Regular.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/source-sans-3/SourceSans3-SemiBold.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/source-sans-3/SourceSans3-Bold.woff2" as="font" type="font/woff2" crossorigin />
+
   {{ if .Site.Params.googleFonts }}
     {{ $baseUrl := "https://fonts.googleapis.com/css2?family=" }}
     {{ $fontParam := delimit .Site.Params.googleFonts "&family=" }}

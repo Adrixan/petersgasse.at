@@ -1,13 +1,135 @@
-*:not(i) {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+/* ==========================================================================
+   Typography System - Source Sans 3 (Corporate Identity)
+   ========================================================================== */
+:root {
+  --font-family-base: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-heading: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-code: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+html, body {
+  font-family: var(--font-family-base);
+  font-weight: 400;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Category: Global Base Elements (preserves icon fonts and monospace code) */
+*:not(i):not([class*="fa-"]):not(code):not(pre):not(kbd):not(samp) {
+  font-family: var(--font-family-base);
+}
+
+/* Category: Monospace & Code */
+code, pre, kbd, samp {
+  font-family: var(--font-family-code);
+}
+
+/* Category: Headings Hierarchy */
 h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-heading);
   text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+h1 {
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+h2 {
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0.025em;
+}
+
+h3 {
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+h4 {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+h5 {
+  font-weight: 600;
+  line-height: 1.45;
+  letter-spacing: 0.02em;
+}
+
+h6 {
+  font-weight: 500;
+  line-height: 1.45;
+  letter-spacing: 0.02em;
+}
+
+/* Category: Body & Inline Emphasis */
+p, li, dd, td {
+  font-weight: 400;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+/* Category: Navigation & Header Controls */
+.header,
+.nav__link,
+.navbar-link,
+.optionswitch__label {
+  font-weight: 600;
+  letter-spacing: 0.015em;
+}
+
+.optionswitch__list a {
+  font-weight: 500;
+}
+
+/* Category: Sidebar & School Identity */
+.sidebar__title,
+.sidebar__author {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.sidebar__description {
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* Category: Metadata, Timestamps & Badges */
+.post__footer-date,
+.archive__list-date,
+.portfolio__meta,
+.tag,
+.category {
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* Category: Data Tables */
+table th,
+table thead th {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+table td,
+table tbody td {
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Category: Form Controls & Buttons */
+button,
+input[type="button"],
+input[type="submit"],
+.btn {
+  font-family: var(--font-family-base);
+  font-weight: 600;
 }
 
 a:link, a:visited {
