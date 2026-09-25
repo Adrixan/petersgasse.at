@@ -30,16 +30,27 @@
 * Established a structured typography hierarchy in `assets/css/styles.css` matching specific Source Sans 3 weights to all element categories: H1/H2 (Bold 700 uppercase), H3/H4/H5 (SemiBold 600), H6 (Medium 500), body/lists (Regular 400), strong/b (SemiBold 600), navigation/buttons (SemiBold 600), sidebar (Bold 700 / Regular 400), metadata (Regular 400), and tables (SemiBold 600 headers, Regular 400 tabular numeric cells). Explicitly preserved monospace code stacks and FontAwesome icon fonts.
 * Added font preloads for primary weights (Regular, SemiBold, Bold) in `layouts/partials/head.html` to eliminate layout shift (CLS) and flash of unstyled text (FOUT).
 * Launched local Hugo development server with draft rendering and fast render disabled on `http://localhost:1313`.
-
 * Merged `feature/corporate-identity-fonts` back into `main` via fast-forward merge.
 * Deployed full release to production via `publish.sh`: verified all 319 remote files and byte sizes across the FTP server.
 * Verified live production HTTP responses: `https://www.petersgasse.at/` (200 OK), `https://www.petersgasse.at/fonts/source-sans-3/SourceSans3-Regular.woff2` (200 OK, 102,964 bytes), and `https://www.petersgasse.at/fonts/source-sans-3/SourceSans3-Bold.woff2` (200 OK, 102,776 bytes).
-* Terminated local Hugo development server and verified port 1313 is closed.
+* Created dedicated feature branch `feature/new-design-clone` to clone the look, feel, graphics, and layout of `https://new.petersgasse.at/`.
+* Inspected remote WordPress instance via read-only FTP access (`petersgasse.at/new.petersgasse.at/`): identified WordPress Twenty Twenty-Five theme styling, typography tokens, layout structures, and downloaded all 87 original media assets into the Hugo theme.
+* Built completely independent Hugo theme `themes/petersgasse-new` decoupled from legacy Anatole dependencies, with modular templates (`baseof.html`, `index.html`, `single.html`, `list.html`, `header.html`, `footer.html`, `banner.html`, `rawhtml.html`).
+* Cloned layout geometry: 33.33% / 66.66% asymmetric two-column grid matching Twenty Twenty-Five, banner image integration, uppercase section headlines, and full uppercase navigation link stacks.
+* Structured content and routes: added Section Hub landing pages (`/schule/`, `/eltern/`, `/schuelerinnen/`, `/nachmittagsbetreuung/`) and dedicated subpages (`/anmeldung/`, `/elternverein/`, `/schulveranstaltungen/`, `/schulbuffet/`, `/reifepruefung/`, `/kalender/`, `/formulare/`).
+* Adapted teacher and staff profile layouts: styled `.row` and `.column` inside `.page-body` across all 79 staff profiles (`/schule/personal/*.md`) into a crisp side-by-side card layout that stacks gracefully on mobile screens.
+* Synchronized external scripts: loaded `customJS` in `head.html` so inline DataTables initialization on `/schule/lehrpersonal/` executes synchronously without timing race conditions.
+* Optimized responsive mobile behavior: added full-screen mobile navigation drawer with Escape and click-outside dismissal, word-break hyphenation for long German compound words in headings, and verified zero horizontal overflow across 375px, 414px, and 1280px viewports.
+* Committed full implementation cleanly to `feature/new-design-clone`.
+* Zero modifications made to remote FTP server.
 
 ## Current State
-* Production website is live at `https://www.petersgasse.at` serving the school's official corporate identity typography (Source Sans 3) with zero external font requests.
-* Active branch: `main` (clean working tree).
-* Local development server is stopped.
-* FTP server maintains over 7.8 GB of free quota headroom.
+* Branch: `feature/new-design-clone` (clean working tree, commit `dee0a41`).
+* Local development server is active on `http://localhost:1313`.
+* Remote production site (`https://www.petersgasse.at`) remains untouched on `main`.
+* Remote FTP server untouched in read-only mode.
 
-
+## Next Steps
+* Review by user on `http://localhost:1313`.
+* Receive feedback on design clone details, navigation hierarchies, or media presentations.
+* Once approved, merge `feature/new-design-clone` into `main` and execute `publish.sh`.
