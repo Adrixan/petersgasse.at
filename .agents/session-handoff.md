@@ -31,9 +31,15 @@
 * Added font preloads for primary weights (Regular, SemiBold, Bold) in `layouts/partials/head.html` to eliminate layout shift (CLS) and flash of unstyled text (FOUT).
 * Launched local Hugo development server with draft rendering and fast render disabled on `http://localhost:1313`.
 
+* Merged `feature/corporate-identity-fonts` back into `main` via fast-forward merge.
+* Deployed full release to production via `publish.sh`: verified all 319 remote files and byte sizes across the FTP server.
+* Verified live production HTTP responses: `https://www.petersgasse.at/` (200 OK), `https://www.petersgasse.at/fonts/source-sans-3/SourceSans3-Regular.woff2` (200 OK, 102,964 bytes), and `https://www.petersgasse.at/fonts/source-sans-3/SourceSans3-Bold.woff2` (200 OK, 102,776 bytes).
+* Terminated local Hugo development server and verified port 1313 is closed.
+
 ## Current State
-* Active branch: `feature/corporate-identity-fonts`.
-* Local Hugo development server is running and accessible at `http://localhost:1313/`.
-* Production site remains untouched on `main` at `https://www.petersgasse.at`.
+* Production website is live at `https://www.petersgasse.at` serving the school's official corporate identity typography (Source Sans 3) with zero external font requests.
+* Active branch: `main` (clean working tree).
+* Local development server is stopped.
+* FTP server maintains over 7.8 GB of free quota headroom.
 
 
