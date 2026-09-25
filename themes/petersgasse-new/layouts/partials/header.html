@@ -1,0 +1,41 @@
+<header class="site-header">
+  <div class="site-container">
+    <div class="header-inner">
+      <div class="site-branding">
+        <a class="site-logo-link" href="/" title="BRG Petersgasse - Startseite">
+          <img class="site-logo" src="/images/logo_farbe-2.png" alt="BRG Petersgasse" height="48" width="auto" />
+        </a>
+      </div>
+
+      <button class="mobile-nav-toggle" aria-label="Menü öffnen" aria-expanded="false" aria-controls="primary-nav">
+        <svg viewBox="0 0 24 24" width="28" height="28" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/>
+        </svg>
+      </button>
+
+      <nav id="primary-nav" class="site-nav" aria-label="Hauptnavigation">
+        <button class="mobile-nav-close" aria-label="Menü schließen">
+          <svg viewBox="0 0 24 24" width="28" height="28" xmlns="http://www.w3.org/2000/svg">
+            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+          </svg>
+        </button>
+
+        <ul class="nav-menu">
+          <li class="nav-item">
+            <a class="nav-link{{ if .IsHome }} active{{ end }}" href="/">Start</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link{{ if or (eq .Section "schule") (hasPrefix .RelPermalink "/schule") }} active{{ end }}" href="/schule/">Schule</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link{{ if or (eq .Section "eltern") (hasPrefix .RelPermalink "/eltern") }} active{{ end }}" href="/eltern/">Eltern</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link{{ if or (eq .Section "schuelerinnen") (hasPrefix .RelPermalink "/schuelerinnen") }} active{{ end }}" href="/schuelerinnen/">Schüler:innen</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <hr class="header-divider" />
+  </div>
+</header>

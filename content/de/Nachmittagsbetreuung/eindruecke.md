@@ -1,7 +1,12 @@
 +++
+title = "Eindrücke"
 identifier = "eindruecke"
 date = "2019-02-28"
+banner_image = "/images/Nachmittagsbetreuung-1.jpg"
+banner_pretitle = "Nachmittagsbetreuung"
+banner_title = "Eindrücke"
 +++
+
 
 ![Brettspiel](/images/nachmittagsbetreuung/9.jpg)
 

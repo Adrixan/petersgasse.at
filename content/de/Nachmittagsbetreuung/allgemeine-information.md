@@ -1,7 +1,13 @@
 +++
+title = "Allgemeine Informationen"
 identifier = "allgemeine-informationen"
 date = "2019-01-31"
+banner_image = "/images/Nachmittagsbetreuung-1.jpg"
+banner_pretitle = "Allgemeine"
+banner_title = "Informationen"
+aliases = ["/nachmittagsbetreuung-allgemeine-informationen/"]
 +++
+
 
 <!-- ![](/images/nachmittagsbetreuung/85.jpg) -->
 ![Wissenswert](/images/nachmittagsbetreuung/79.jpg)

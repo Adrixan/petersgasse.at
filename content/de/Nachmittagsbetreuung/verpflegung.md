@@ -1,8 +1,13 @@
 +++
+title = "Verpflegung"
 identifier = "verpflegung"
 date = "2019-02-28"
-
+banner_image = "/images/Nachmittagsbetreuung-1.jpg"
+banner_pretitle = "Verpflegung und"
+banner_title = "Speisepläne"
+aliases = ["/nachmittagsbetreuung-verpflegung/"]
 +++
+
 
 <!-- ![Wissenswert](/images/nachmittagsbetreuung/79.jpg) -->
 

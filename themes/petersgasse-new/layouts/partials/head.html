@@ -1,0 +1,26 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}" />
+<link rel="canonical" href="{{ .Permalink }}" />
+
+<!-- Favicons -->
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<!-- Font Preloads (Source Sans 3) -->
+<link rel="preload" href="/fonts/source-sans-3/SourceSans3-Regular.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/source-sans-3/SourceSans3-SemiBold.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/source-sans-3/SourceSans3-Bold.woff2" as="font" type="font/woff2" crossorigin />
+
+<!-- Stylesheets -->
+{{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" />
+
+<!-- Optional DataTables CSS if page contains data tables -->
+<link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
+
+<!-- Custom Head Scripts (jQuery, DataTables) -->
+{{ range site.Params.customJS }}
+<script src="{{ . | relURL }}"></script>
+{{ end }}

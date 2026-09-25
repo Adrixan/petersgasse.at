@@ -1,8 +1,12 @@
 +++
+title = "Erreichbarkeit"
 identifier = "erreichbarkeit"
 date = "2019-02-28"
-
+banner_image = "/images/Erreichbarkeit.jpg"
+banner_pretitle = "Erreichbarkeit unserer"
+banner_title = "Schule"
 +++
+
 |Bundesrealgymnasium (BRG) Petersgasse|GPS-Daten:|
 |------|------|
 |Petersgasse 110|Breite: 47° 03' 35,64'' N|

@@ -1,0 +1,9 @@
+name = "petersgasse-new"
+license = "MIT"
+description = "Custom Hugo theme cloning the modern WordPress Twenty Twenty-Five corporate identity for BRG Petersgasse"
+homepage = "https://www.petersgasse.at"
+min_version = "0.120.0"
+
+[author]
+  name = "BRG Petersgasse"
+  homepage = "https://www.petersgasse.at"

@@ -1,8 +1,13 @@
 +++
+title = "Kosten"
 identifier = "kosten"
 date = "2019-02-28"
-
+banner_image = "/images/Nachmittagsbetreuung-1.jpg"
+banner_pretitle = "Nachmittagsbetreuung"
+banner_title = "Kosten"
+aliases = ["/nachmittagsbetreuung-kosten/"]
 +++
+
 
 <!-- ![Brettspiel](/images/nachmittagsbetreuung/5.jpg) -->
 

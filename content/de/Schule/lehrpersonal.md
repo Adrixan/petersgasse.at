@@ -1,9 +1,15 @@
 
 +++
+title = "Lehrer:innen"
 identifier = "lehrpersonal"
 date = "2026-02-23"
 draft = false
+banner_image = "/images/unsere_schule2.jpg"
+banner_pretitle = "BRG Petersgasse"
+banner_title = "Lehrer:innen"
+aliases = ["/schule/lehrerinnen/"]
 +++
+
 
 
 {{< rawhtml >}}

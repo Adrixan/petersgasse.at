@@ -1,0 +1,70 @@
+{{ define "main" }}
+<div class="site-container">
+
+  <!-- 1. Top Feature Cards Grid -->
+  <section class="feature-cards-grid" aria-label="Hauptbereiche">
+    <a href="/schule/" class="feature-card" title="Zu Unsere Schule">
+      <div class="feature-card__image-col">
+        <img class="feature-card__img" src="/images/unsere_schule2.jpg" alt="Unsere Schule" width="850" height="178" />
+      </div>
+      <div class="feature-card__title-col">
+        <div class="feature-card__pretitle">Unsere</div>
+        <div class="feature-card__title">Schule</div>
+      </div>
+    </a>
+
+    <a href="/schuelerinnen/" class="feature-card" title="Zu Service für Schüler:innen">
+      <div class="feature-card__image-col">
+        <img class="feature-card__img" src="/images/Service_S2.jpg" alt="Service für Schüler:innen" width="850" height="178" />
+      </div>
+      <div class="feature-card__title-col">
+        <div class="feature-card__pretitle">Service für</div>
+        <div class="feature-card__title">Schüler:innen</div>
+      </div>
+    </a>
+
+    <a href="/eltern/" class="feature-card" title="Zu Service für Eltern">
+      <div class="feature-card__image-col">
+        <img class="feature-card__img" src="/images/Service_E2.jpg" alt="Service für Eltern" width="850" height="178" />
+      </div>
+      <div class="feature-card__title-col">
+        <div class="feature-card__pretitle">Service für</div>
+        <div class="feature-card__title">Eltern</div>
+      </div>
+    </a>
+  </section>
+
+  <!-- 2. Responsive Hero Video (Positioned prominently between cards and Aktuelles) -->
+  <section class="hero-video-section" aria-label="Schulvideo">
+    <div class="hero-video-wrapper">
+      <video class="index-video" src="/Schulvideo_480p.mp4" autoplay muted defaultMuted playsinline webkit-playsinline loop controls preload="auto" poster="/images/schulvideo-poster.webp">
+        <source src="/Schulvideo_480p.mp4" type="video/mp4">
+        Ihr Browser unterstützt dieses Videoformat leider nicht.
+      </video>
+    </div>
+  </section>
+
+  <!-- 3. Aktuelles Section Banner -->
+  <section class="page-banner" aria-label="Aktuelles">
+    <div class="banner-row__image-col">
+      <img class="banner-row__img" src="/images/petersgasse_aktuelles-1.jpg" alt="BRG Petersgasse Aktuelles" width="850" height="178" />
+    </div>
+    <div class="banner-row__title-col">
+      <div class="banner-row__pretitle">BRG Petersgasse</div>
+      <div class="banner-row__title">Aktuelles</div>
+    </div>
+  </section>
+
+  <!-- 4. Main Body Content & Calendar -->
+  <div class="page-content-row">
+    <div class="page-content-row__left-col"></div>
+    <div class="page-content-row__right-col">
+      <div class="page-body">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+
+</div>
+{{ end }}
+

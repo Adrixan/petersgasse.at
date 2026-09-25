@@ -1,7 +1,12 @@
 +++
+title = "Impressum"
 identifier = 'impressum'
 date = "2019-02-28"
+banner_image = "/images/Impressum.jpg"
+banner_pretitle = "BRG Petersgasse"
+banner_title = "Impressum"
 +++
+
 # Impressum
  
 BRG Petersgasse Graz

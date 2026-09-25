@@ -1,7 +1,13 @@
 +++
-identifier="ablauf"
+title = "Ablauf"
+identifier = "ablauf"
 date = "2019-02-28"
+banner_image = "/images/Nachmittagsbetreuung-1.jpg"
+banner_pretitle = "Nachmittagsbetreuung"
+banner_title = "Ablauf"
+aliases = ["/nachmittagsbetreuung-ablauf/"]
 +++
+
 
 <!--  ![Beim Lesen](/images/nachmittagsbetreuung/3.jpg) -->
 

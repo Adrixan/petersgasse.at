@@ -1,8 +1,13 @@
 +++
+title = "Kurssystem"
 identifier = "kurssystem"
 date = "2019-02-28"
-
+banner_image = "/images/Kurssystem.jpg"
+banner_pretitle = "BRG Petersgasse"
+banner_title = "Kurssystem"
+aliases = ["/kurssystem/"]
 +++
+
 
 # Kurssystem Oberstufe:
 

@@ -1,8 +1,12 @@
 +++
-identifier = "schuprofil"
+title = "Schulprofil"
+identifier = "schulprofil"
 date = "2019-02-28"
-
+banner_image = "/images/Schulprofil.jpg"
+banner_pretitle = "Unser"
+banner_title = "Schulprofil"
 +++
+
 
 
 

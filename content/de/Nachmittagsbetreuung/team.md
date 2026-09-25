@@ -1,8 +1,13 @@
 +++
+title = "Team"
 identifier = "team"
 date = "2019-02-28"
-
+banner_image = "/images/Nachmittagsbetreuung-1.jpg"
+banner_pretitle = "Nachmittagsbetreuung"
+banner_title = "Team"
+aliases = ["/nachmittagsbetreuung-team/"]
 +++
+
 
 <!-- ![Alle zusammen](/images/nachmittagsbetreuung/76.jpg) -->
 

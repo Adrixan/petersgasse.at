@@ -1,8 +1,11 @@
 title = "BRG Petersgasse"
 baseURL = "https://www.petersgasse.at"
 locale = "de"
-theme = ["anatole"]
+theme = ["petersgasse-new"]
 DefaultContentLanguage = "DE"
+
+
+
 
 summarylength = 10
 enableEmoji = true

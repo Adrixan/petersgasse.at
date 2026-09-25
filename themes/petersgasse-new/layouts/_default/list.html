@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="site-container">
+
+  {{/* Dynamic Banner Selection */}}
+  {{ $bannerImg := .Params.banner_image }}
+  {{ $bannerPretitle := .Params.banner_pretitle | default "BRG Petersgasse" }}
+  {{ $bannerTitle := .Params.banner_title | default .Title }}
+
+  {{ if not $bannerImg }}
+    {{ if eq .Section "schule" }}
+      {{ $bannerImg = "/images/unsere_schule2.jpg" }}
+      {{ $bannerPretitle = "Unsere" }}
+      {{ $bannerTitle = "Schule" }}
+    {{ else if eq .Section "eltern" }}
+      {{ $bannerImg = "/images/Service_E2.jpg" }}
+      {{ $bannerPretitle = "Service für" }}
+      {{ $bannerTitle = "Eltern" }}
+    {{ else if eq .Section "schuelerinnen" }}
+      {{ $bannerImg = "/images/Service_S2.jpg" }}
+      {{ $bannerPretitle = "Service für" }}
+      {{ $bannerTitle = "Schüler:innen" }}
+    {{ else if eq .Section "nachmittagsbetreuung" }}
+      {{ $bannerImg = "/images/Nachmittagsbetreuung-3.jpg" }}
+      {{ $bannerPretitle = "BRG Petersgasse" }}
+      {{ $bannerTitle = "Nachmittagsbetreuung" }}
+    {{ else if eq .Section "vorstellung" }}
+      {{ $bannerImg = "/images/Angebot.jpg" }}
+      {{ $bannerPretitle = "BRG Petersgasse" }}
+      {{ $bannerTitle = "Vorstellung" }}
+    {{ else }}
+      {{ $bannerImg = "/images/petersgasse_aktuelles-1.jpg" }}
+    {{ end }}
+  {{ end }}
+
+  {{ partial "banner.html" (dict "image" $bannerImg "pretitle" $bannerPretitle "title" $bannerTitle "alt" .Title) }}
+
+  <div class="page-content-row">
+    <div class="page-content-row__left-col"></div>
+    <div class="page-content-row__right-col">
+      {{ with .Content }}
+        <div class="page-body">
+          {{ . }}
+        </div>
+      {{ end }}
+
+      {{ if and (not .Content) .Pages }}
+        <div class="subpage-nav-group">
+          {{ range .Pages }}
+            <h6 class="subpage-nav-link"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h6>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+</div>
+{{ end }}
+

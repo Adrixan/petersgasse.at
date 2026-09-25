@@ -1,9 +1,15 @@
 
 +++
+title = "Administratives Personal"
 identifier = "adminpersonen"
 date = "2026-02-23"
 draft = false
+banner_image = "/images/Adminpersonal.jpg"
+banner_pretitle = "BRG Petersgasse"
+banner_title = "Administratives Personal"
+aliases = ["/schule/administratives-personal/"]
 +++
+
 {{< rawhtml >}}
 <h1>Administratives Personal:</h1>
 

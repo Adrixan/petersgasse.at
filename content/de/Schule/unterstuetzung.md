@@ -1,8 +1,13 @@
 +++
+title = "Schulpsychologie"
 identifier = "unterstuetzung"
 date = "2019-02-28"
-
+banner_image = "/images/Schulpsychologie.jpg"
+banner_pretitle = "Schüler:innenberatung"
+banner_title = "Schulpsychologie"
+aliases = ["/schulpsychologie/"]
 +++
+
 # Unsere Schüler:innen - Beratung
 
 

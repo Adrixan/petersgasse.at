@@ -1,8 +1,13 @@
 +++
+title = "Schulverein Pegasus"
 identifier = "schulverein"
 date = "2019-02-28"
-
+banner_image = "/images/schulverein_pegasus.jpg"
+banner_pretitle = "BRG Petersgasse"
+banner_title = "Schulverein Pegasus"
+aliases = ["/schulverein/"]
 +++
+
 
 # Verein zur Förderung außerschulischer Fortbildung
 
