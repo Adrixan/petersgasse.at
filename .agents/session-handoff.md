@@ -22,9 +22,18 @@
 * Enhanced video element attributes and execution timing: attached direct `src="/Schulvideo_480p.mp4"`, `defaultMuted`, `playsinline`, and `webkit-playsinline`, backed by an immediate synchronous script and a passive user-interaction fallback (`touchstart`, `scroll`, `click`) in case of strict cellular data-saver mode.
 * Deployed release to production via `publish.sh`: verified all 286 remote files and byte sizes (including the 8,371,786 byte video).
 * Verified live production HTTP responses: `https://www.petersgasse.at/` (200 OK) and `https://www.petersgasse.at/Schulvideo_480p.mp4` (200 OK, 8,371,786 bytes).
+* Created separate feature branch `feature/corporate-identity-fonts` to implement the school's official corporate identity typography from `WG__Schulschrift.zip`.
+* Extracted and converted all 16 font weights and styles of `Source Sans 3` (200 ExtraLight through 900 Black, normal and italic) to high-efficiency WOFF2 files (reducing font payload from 4.70 MB down to 1.38 MB, an 80% compression ratio) alongside original TTF fallbacks.
+* Staged font assets in `assets/fonts/source-sans-3/` and `static/fonts/source-sans-3/`.
+* Created `assets/css/fonts.css` with 16 comprehensive `@font-face` rules utilizing `font-display: swap`.
+* Removed external Google Fonts request (`Open Sans`) from `config/_default/hugo.toml`, ensuring 100% self-hosted, GDPR-compliant local font serving.
+* Established a structured typography hierarchy in `assets/css/styles.css` matching specific Source Sans 3 weights to all element categories: H1/H2 (Bold 700 uppercase), H3/H4/H5 (SemiBold 600), H6 (Medium 500), body/lists (Regular 400), strong/b (SemiBold 600), navigation/buttons (SemiBold 600), sidebar (Bold 700 / Regular 400), metadata (Regular 400), and tables (SemiBold 600 headers, Regular 400 tabular numeric cells). Explicitly preserved monospace code stacks and FontAwesome icon fonts.
+* Added font preloads for primary weights (Regular, SemiBold, Bold) in `layouts/partials/head.html` to eliminate layout shift (CLS) and flash of unstyled text (FOUT).
+* Launched local Hugo development server with draft rendering and fast render disabled on `http://localhost:1313`.
 
 ## Current State
-* Production website is active and serving the audio-free 8.0 MB video with bulletproof mobile silent autoplay at `https://www.petersgasse.at`.
-* FTP server maintains over 7.8 GB of free quota headroom.
-* All workspace changes and build outputs are verified and clean.
+* Active branch: `feature/corporate-identity-fonts`.
+* Local Hugo development server is running and accessible at `http://localhost:1313/`.
+* Production site remains untouched on `main` at `https://www.petersgasse.at`.
+
 
