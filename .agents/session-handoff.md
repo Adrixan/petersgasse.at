@@ -45,12 +45,13 @@
 * Zero modifications made to remote FTP server.
 
 ## Current State
-* Branch: `feature/new-design-clone` (clean working tree, commit `dee0a41`).
-* Local development server is active on `http://localhost:1313`.
-* Remote production site (`https://www.petersgasse.at`) remains untouched on `main`.
+* Date: 2026-09-29
+* Active Branch: `feature/new-design-clone` (clean working tree).
+* Local development server is stopped (port 1313 is free).
+* Remote production site (`https://www.petersgasse.at`) remains live on `main`.
 * Remote FTP server untouched in read-only mode.
 
 ## Next Steps
-* Review by user on `http://localhost:1313`.
-* Receive feedback on design clone details, navigation hierarchies, or media presentations.
-* Once approved, merge `feature/new-design-clone` into `main` and execute `publish.sh`.
+* Resume review by launching local Hugo server: `hugo server -D --disableFastRender`.
+* Review visual design clone, navigation hierarchies, and content mapping across desktop and mobile viewports.
+* When approved, merge `feature/new-design-clone` into `main` and deploy to production via `./publish.sh`.
