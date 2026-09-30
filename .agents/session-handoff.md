@@ -35,11 +35,28 @@
 * Deployed full release to production via `publish.sh`: verified all 319 remote files and byte sizes across the FTP server.
 * Verified live production HTTP responses: `https://www.petersgasse.at/` (200 OK), `https://www.petersgasse.at/fonts/source-sans-3/SourceSans3-Regular.woff2` (200 OK, 102,964 bytes), and `https://www.petersgasse.at/fonts/source-sans-3/SourceSans3-Bold.woff2` (200 OK, 102,776 bytes).
 * Terminated local Hugo development server and verified port 1313 is closed.
+* Switched back to `main` branch per user request.
+* Replaced outdated Sprechstundenliste references on the homepage (`content/de/_index.md`) under "Aktuelle Aussendungen" and on the teacher directory page (`content/de/Schule/lehrpersonal.md`) with the notice: "Sprechstunden: Aktuelle Termine siehe WebUntis (Gesamtliste folgt demnächst)".
+* Configured DataTable on `content/de/Schule/lehrpersonal.md` with `columnDefs: [{ target: [0, 3, 4], visible: false, searchable: false }]` to hide obsolete office hours columns from the 2025/26 school year.
+* Backed up and purged legacy static files `static/Sprechtstundenliste.pdf` and `static/Sprechstunden_2324.pdf`.
+* Added link to `static/Journaldienst_Bundesschulen.pdf` ("Journaldienst Schulpsychologie") under "# Unterstützungsangebote innerhalb der Schule" in `content/de/_index.md`.
+* Started local Hugo development server (`http://localhost:1313`) for user review.
+* Upon user approval, committed content changes to `main` (commit `9597147`).
+* Terminated local Hugo development server and verified port 1313 is closed.
+* Executed `./publish.sh`: compiled 121 pages via Hugo, uploaded 318 files (132.87 MB) to FTP remote `public`, verified byte size integrity of all 318 remote files, rotated `www.petersgasse.at` to `www.petersgasse.at.prev`, and promoted `public` to production `www.petersgasse.at`.
+* Verified live production HTTP responses:
+  - `https://www.petersgasse.at/` (HTTP 200 OK, serving updated Aussendungen and mental health support link)
+  - `https://www.petersgasse.at/Journaldienst_Bundesschulen.pdf` (HTTP 200 OK, 357,732 bytes)
+  - `https://www.petersgasse.at/Sprechtstundenliste.pdf` (HTTP 404 Not Found, confirmed purged)
+  - `https://www.petersgasse.at/schule/lehrpersonal/` (HTTP 200 OK)
 
 ## Current State
-* Production website is live at `https://www.petersgasse.at` serving the school's official corporate identity typography (Source Sans 3) with zero external font requests.
-* Active branch: `main` (clean working tree).
-* Local development server is stopped.
-* FTP server maintains over 7.8 GB of free quota headroom.
+* Date: 2026-09-30
+* Active Branch: `main` (clean working tree).
+* Local Development Server: Disabled and stopped (port 1313 free).
+* Production Environment: Live at `https://www.petersgasse.at` with all updates published and verified.
+
+## Next Steps
+* Standby for further content updates, official 2026/27 Sprechstundenliste publication, or resumption of `feature/new-design-clone` evaluation.
 
 
