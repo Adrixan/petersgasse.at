@@ -36,6 +36,7 @@ date = "2019-02-28"
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
+* Sprechstunden: Aktuelle Termine siehe [WebUntis](https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login) (Gesamtliste folgt demnächst)
 * [1. Mitteilungsblatt 2026/27](</1. Mitteilungsblatt.pdf>)
 * [Hinweise und Infos zur Nachmittagsbetreuung](</Nachmittagsbetreuung.pdf>)
 * [Juniorkursbuch](</Juniorkursbuch.pdf>)
@@ -59,11 +60,12 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 * [Gebrauch elektronischer Geräte](</Gebrauch elektronischer Geräte.pdf>)
 * [Raumplan](</Raumplan.pdf>)
 
-# Unterstützungangebote innerhalb der Schule
+# Unterstützungsangebote innerhalb der Schule
 
 * [Sprechstunden Schulärztinnen](</Sprechstunden-Schulärztinnen.pdf>)
 * [Schüler:innen Beratung]( {{< relref "schule/unterstuetzung.md" >}} )
 * [Schulpsychologie](</Infoblatt_Schulpsychologie.pdf>)
+* [Journaldienst Schulpsychologie](</Journaldienst_Bundesschulen.pdf>)
 
 # Unterstützungsangebote außerhalb der Schule
 

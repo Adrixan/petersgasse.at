@@ -9,6 +9,7 @@ draft = false
 {{< rawhtml >}}
 <h1>Lehrer:innen:</h1>
 <p>Die Kommunikation zwischen Erziehungsberechtigten und der Lehrerschaft erfolgt ausschließlich über WebUntis.</p> 
+<p><strong>Sprechstunden:</strong> Aktuelle Termine siehe <a href="https://petersgasse.webuntis.com/WebUntis/?school=petersgasse#/basic/login" target="_blank" rel="noopener">WebUntis</a> (Gesamtliste folgt demnächst).</p>
 <p>Sollte WebUntis nicht zur Verfügung stehen, können Sie uns jederzeit per E-Mail - Vorname.Nachname@petersgasse.at - kontaktieren.</p>
 <p>Für mehr Informationen, bitte den Namen auswählen!</p>
 
@@ -682,6 +683,6 @@ draft = false
     
 
     <script>
-        new DataTable('#teachers', { columnDefs: [{ target: 0, visible: false, searchable: false}]});
+        new DataTable('#teachers', { columnDefs: [{ target: [0, 3, 4], visible: false, searchable: false}]});
     </script>
 {{< /rawhtml >}}
