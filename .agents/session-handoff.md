@@ -50,13 +50,22 @@
   - `https://www.petersgasse.at/Sprechtstundenliste.pdf` (HTTP 404 Not Found, confirmed purged)
   - `https://www.petersgasse.at/schule/lehrpersonal/` (HTTP 200 OK)
 
+* Consolidated "Tag der offenen Tür: 16. Jänner 2027" announcement and link into a single clickable H2 heading in `content/de/_index.md`.
+* Updated `assets/css/styles.css` to add high-specificity heading link rules (`h1 a`, `h2 a`, `h3 a`) for light and dark themes to guarantee visibility and proper line height across all color modes.
+* Created detailed informational page `content/de/Blog/tag-der-offenen-tuer-2027.md` with full program descriptions, station overviews, Schnuppertage instructions for elementary school pupils, and link to the Bildungsdirektion Steiermark admission process.
+* Shut down local Hugo development server and verified port 1313 is closed.
+* Executed `./publish.sh`: compiled 122 pages via Hugo, uploaded 319 files (132.90 MB) to FTP remote `public`, verified file count and sizes, rotated `www.petersgasse.at` to `www.petersgasse.at.prev`, and promoted `public` to production `www.petersgasse.at`.
+* Verified live production HTTP 200 responses:
+  - `https://www.petersgasse.at/` (HTTP 200 OK, serving updated single-line clickable announcement)
+  - `https://www.petersgasse.at/blog/tag-der-offenen-tuer-2027/` (HTTP 200 OK, full event details active)
+
 ## Current State
-* Date: 2026-09-30
-* Active Branch: `main` (clean working tree).
-* Local Development Server: Disabled and stopped (port 1313 free).
-* Production Environment: Live at `https://www.petersgasse.at` with all updates published and verified.
+* Date: 2026-10-06
+* Active Branch: `main`.
+* Local Hugo development server stopped (port 1313 free).
+* Production site `https://www.petersgasse.at` live with all changes published.
 
 ## Next Steps
-* Standby for further content updates, official 2026/27 Sprechstundenliste publication, or resumption of `feature/new-design-clone` evaluation.
+* Standby for upcoming announcements or further website maintenance.
 
 

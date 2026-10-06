@@ -33,6 +33,8 @@ date = "2019-02-28"
   </script>
 </div>
 
+## [Tag der offenen Tür: 16. Jänner 2027 - Hier geht's zu den Informationen]( {{< relref "Blog/tag-der-offenen-tuer-2027.md" >}} )
+
 Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremdsprache und einem mathematisch-naturwissenschaftlichen Schwerpunkt in der Oberstufe.
 
 # Aktuelle Aussendungen
