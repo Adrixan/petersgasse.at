@@ -1,6 +1,9 @@
 # Session Handoff
 
 ## Trajectory & Context
+* Discovered that `static/` is a separate git submodule/subrepository pointing at `git@github.com:Adrixan/petersgasse-static.git`, explaining why `git add -f` silently skipped the new video assets; the outer repo intentionally ignores `/static/`.
+* Reverted the temporary `.gitignore` negation rules back to the original plain `/static/` ignore entry.
+* Adjusted the blog post date from 12 October to 9 October 2026 to reflect the original email announcement date.
 * Compressed the provided 21 MB original video to `static/Pfandsammeln.mp4` (3.3 MB, H.264/AAC, 640x364, CRF 27, faststart) with audio preserved, and generated a 5.4 KB poster frame at `static/images/pfandsammeln-poster.webp`.
 * Created blog post `content/de/Blog/pfandsammeln.md` ("Pfandsammel-Aktion an unserer Schule", dated 2026-10-12) with the approved editorially adapted email text from 9 October, embedding the video with the homepage's autoplay reliability pattern (muted, playsinline, user-interaction fallback).
 * Verified a clean Hugo build and confirmed the rendered blog page contains the autoplay video element.
@@ -71,4 +74,4 @@
 * Production site `https://www.petersgasse.at` live with all changes published. Release had 319 files; remote file count and key file sizes verified, and live homepage returned HTTP 200.
 
 ## Next Steps
-* Publish the Pfandsammel-Aktion blog post and compressed video to production via `publish.sh` upon user request.
+* Commit the new video assets inside the `static/` subrepository (`Pfandsammeln.mp4`, `images/pfandsammeln-poster.webp`, plus pending PDF updates) and push it to its own remote, then publish the site via `publish.sh`.

@@ -13,11 +13,7 @@ hugo.linux
 /.hugo_build.lock
 
 # Files for deployment
-/static/*
-!/static/Pfandsammeln.mp4
-!/static/images/
-/static/images/*
-!/static/images/pfandsammeln-poster.webp
+/static/
 
 # Scratch & local tooling
 /.scratch/
