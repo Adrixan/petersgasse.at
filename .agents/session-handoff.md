@@ -64,9 +64,8 @@
 ## Current State
 * Date: 2026-10-19
 * Active Branch: `main`.
-* Local Hugo development server stopped (port 1313 free).
-* Production site `https://www.petersgasse.at` live with all changes published.
+* Local Hugo development server stopped (port 1313 free) after user requested preview shutdown.
+* Production site `https://www.petersgasse.at` live with all changes published. Release had 319 files; remote file count and key file sizes verified, and live homepage returned HTTP 200.
 
 ## Next Steps
 * Standby for upcoming announcements or further website maintenance.
-
