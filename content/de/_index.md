@@ -64,6 +64,20 @@ Das BRG Petersgasse ist ein Realgymnasium mit Englisch als erster lebender Fremd
 
 # Unterstützungsangebote innerhalb der Schule
 
+## Sprechstunden der Schulpsychologie
+
+Der Schulpsychologe ist an folgenden Montagen jeweils ab 9:00 Uhr im Besprechungsraum:
+
+* 28. September 2026
+* 5. Oktober 2026
+* 19. Oktober 2026
+* 2. November 2026
+* 16. November 2026
+* 23. November 2026
+* 7. Dezember 2026
+* 14. Dezember 2026 (bis 12:00 Uhr)
+* 21. Dezember 2026
+
 * [Sprechstunden Schulärztinnen](</Sprechstunden-Schulärztinnen.pdf>)
 * [Schüler:innen Beratung]( {{< relref "schule/unterstuetzung.md" >}} )
 * [Schulpsychologie](</Infoblatt_Schulpsychologie.pdf>)

@@ -1,6 +1,8 @@
 # Session Handoff
 
 ## Trajectory & Context
+* Added the school psychologist's 2026 consultation dates to the homepage under "Unterstützungsangebote innerhalb der Schule". The notice states that the psychologist is available from 9:00 in the meeting room, with 14 December ending at 12:00.
+* Verified the homepage with a successful quiet Hugo build.
 * Investigated blocked video embedding on `https://www.petersgasse.at`. Confirmed that SharePoint Online returns `X-Frame-Options: SAMEORIGIN` and CSP `frame-ancestors` restricting iframe embeds to Microsoft internal domains, accompanied by 403 Forbidden for unauthenticated visitors.
 * Tested updated embed parameters (`ust: true`) via curl against `petersgasse-my.sharepoint.com` and confirmed the same framing restrictions and authentication requirement remain active on Microsoft's end.
 * Removed the embedded video from `content/de/_index.md` per user request and cleaned up associated CSS rules.
@@ -60,12 +62,11 @@
   - `https://www.petersgasse.at/blog/tag-der-offenen-tuer-2027/` (HTTP 200 OK, full event details active)
 
 ## Current State
-* Date: 2026-10-06
+* Date: 2026-10-19
 * Active Branch: `main`.
 * Local Hugo development server stopped (port 1313 free).
 * Production site `https://www.petersgasse.at` live with all changes published.
 
 ## Next Steps
 * Standby for upcoming announcements or further website maintenance.
-
 
