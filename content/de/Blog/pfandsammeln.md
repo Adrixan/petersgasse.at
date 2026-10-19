@@ -1,6 +1,6 @@
 +++
 title = 'Pfandsammel-Aktion an unserer Schule'
-date = 2026-10-12T08:00:00+02:00
+date = 2026-10-09T08:00:00+02:00
 draft = false
 +++
 
