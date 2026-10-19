@@ -1,6 +1,9 @@
 # Session Handoff
 
 ## Trajectory & Context
+* Committed `Pfandsammeln.mp4` and `images/pfandsammeln-poster.webp` inside the `static/` subrepository and pushed commit `6a4d3d1` to `git@github.com:Adrixan/petersgasse-static.git`.
+* Published the Pfandsammel-Aktion release via `publish.sh`: 322 files (136.15 MB) uploaded and byte-size verified, production folder rotated and activated.
+* Verified live production HTTP 200 responses for `/blog/pfandsammeln/` and `/Pfandsammeln.mp4`.
 * Discovered that `static/` is a separate git submodule/subrepository pointing at `git@github.com:Adrixan/petersgasse-static.git`, explaining why `git add -f` silently skipped the new video assets; the outer repo intentionally ignores `/static/`.
 * Reverted the temporary `.gitignore` negation rules back to the original plain `/static/` ignore entry.
 * Adjusted the blog post date from 12 October to 9 October 2026 to reflect the original email announcement date.
@@ -69,9 +72,9 @@
 
 ## Current State
 * Date: 2026-10-19
-* Active Branch: `main`.
+* Active Branch: `main` (outer repo) and `main` (static subrepo), both pushed.
 * Local Hugo development server stopped (port 1313 free) after user requested preview shutdown.
 * Production site `https://www.petersgasse.at` live with all changes published. Release had 319 files; remote file count and key file sizes verified, and live homepage returned HTTP 200.
 
 ## Next Steps
-* Commit the new video assets inside the `static/` subrepository (`Pfandsammeln.mp4`, `images/pfandsammeln-poster.webp`, plus pending PDF updates) and push it to its own remote, then publish the site via `publish.sh`.
+* Standby for upcoming announcements or further website maintenance. The `static/` subrepo still holds uncommitted PDF changes (updated Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, new Journaldienst, Schulvideo files and fonts) awaiting separate review.
