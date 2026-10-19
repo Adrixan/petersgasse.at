@@ -1,6 +1,9 @@
 # Session Handoff
 
 ## Trajectory & Context
+* Compressed the provided 21 MB original video to `static/Pfandsammeln.mp4` (3.3 MB, H.264/AAC, 640x364, CRF 27, faststart) with audio preserved, and generated a 5.4 KB poster frame at `static/images/pfandsammeln-poster.webp`.
+* Created blog post `content/de/Blog/pfandsammeln.md` ("Pfandsammel-Aktion an unserer Schule", dated 2026-10-12) with the approved editorially adapted email text from 9 October, embedding the video with the homepage's autoplay reliability pattern (muted, playsinline, user-interaction fallback).
+* Verified a clean Hugo build and confirmed the rendered blog page contains the autoplay video element.
 * Added the school psychologist's 2026 consultation dates to the homepage under "Unterstützungsangebote innerhalb der Schule". The notice states that the psychologist is available from 9:00 in the meeting room, with 14 December ending at 12:00.
 * Verified the homepage with a successful quiet Hugo build.
 * Investigated blocked video embedding on `https://www.petersgasse.at`. Confirmed that SharePoint Online returns `X-Frame-Options: SAMEORIGIN` and CSP `frame-ancestors` restricting iframe embeds to Microsoft internal domains, accompanied by 403 Forbidden for unauthenticated visitors.
@@ -68,4 +71,4 @@
 * Production site `https://www.petersgasse.at` live with all changes published. Release had 319 files; remote file count and key file sizes verified, and live homepage returned HTTP 200.
 
 ## Next Steps
-* Standby for upcoming announcements or further website maintenance.
+* Publish the Pfandsammel-Aktion blog post and compressed video to production via `publish.sh` upon user request.
