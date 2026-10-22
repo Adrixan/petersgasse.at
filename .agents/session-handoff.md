@@ -76,14 +76,18 @@
   - Logos per erasmusplus.schule/mediathek (Formulare & Logos): EU emblem "Kofinanziert von der Europäischen Union" plus Erasmus+ logo "Enriching lives, opening minds." without flag; originals from the PAD Dokumentencenter, trimmed and pngquant-optimised in `static/images/erasmus/`. Disclaimer text reused from the Viareggio post.
   - Templates: `layouts/erasmus/{list,single}.html` append `partials/erasmus-logos.html` automatically to every page in the section; logos sit in a `<section class="post__content">` so the theme's medium-zoom (`div.post__content img`) skips them. Shortcodes `galerie` + `foto` (alt required, dimensions via imageConfig, justified rows via `--ar`).
   - Photos: auto-oriented, metadata stripped, max 1600 px WebP q80 in `static/images/erasmus/florenz-2025-26/`.
-  - Branches `feature/erasmus-section` pushed in the outer repo (57a786d) and the static subrepo (19bc4dc); not merged, not published. Dev server left running on 127.0.0.1:1313 for review.
+  - User approved after review; disclaimer wording kept as is (user decision). Merged `feature/erasmus-section` with `--no-ff` into `main` in the outer repo (8a034e9) and the static subrepo (377b92e), both pushed; feature branches deleted after verification.
+  - Static subrepo: committed the updated `Hausordnung.pdf` (130,185 bytes, 2 pages, dated 2026-10-22).
+  - Outer repo: deleted the source ZIP; committed `original-2B6CAE5E-C12D-4587-9570-2C307CD3CD0C.mp4` (21 MB original Pfandsammeln video) at the repo root on user request.
+  - Published via `publish.sh`: 126 pages, 336 files uploaded and verified, production rotated. Live HTTP 200 for `/`, `/erasmus/`, `/erasmus/florenz-2025-26/`, both logos, photos and `/Hausordnung.pdf` (130,185 bytes).
 
 ## Current State
-* Date: 2026-10-19
-* Active Branch: `main` (outer repo) and `main` (static subrepo), both pushed.
-* Local Hugo development server stopped (port 1313 free) after user requested preview shutdown.
-* Production site `https://www.petersgasse.at` live with all changes published. Release had 319 files; remote file count and key file sizes verified, and live homepage returned HTTP 200.
+* Date: 2026-10-22
+* Active Branch: `main` in the outer repo and the static subrepo, both pushed and in sync with origin.
+* Local Hugo development server stopped (port 1313 free).
+* Production site `https://www.petersgasse.at` live with the Erasmus+ section and new Hausordnung.
 
 ## Next Steps
-* Erasmus+: after user review merge `feature/erasmus-section` (both repos, `--no-ff`), run `./publish.sh`, verify `/erasmus/` and `/erasmus/florenz-2025-26/` live. Open: disclaimer names EACEA although KA1 school mobilities are granted via the OeAD (confirm wording with the Erasmus coordinator); Mia's first photo shows a glass with a red drink (confirm it is fine for the school site).
-* Standby for upcoming announcements or further website maintenance. The `static/` subrepo still holds uncommitted PDF changes (updated Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, new Journaldienst, Schulvideo files and fonts) awaiting separate review.
+* SECURITY: `publish.sh` is tracked in the PUBLIC repo `Adrixan/petersgasse.at` and contains the FTP password as a hardcoded default (`FTP_PASS`). Rotate the FTP password at the hoster, remove the default from `publish.sh` (require `.env`, which is gitignored), and decide whether to purge it from git history. Reported to the user 2026-10-22; awaiting decision.
+* The `static/` subrepo still holds uncommitted, already published changes (Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, Journaldienst, Schulvideo files, fonts, Schulvideo posters) awaiting separate review.
+* Open question from the Erasmus+ work: Mia's first photo shows a glass with a red drink; the user published it without objection.
