@@ -178,6 +178,30 @@ url = "/vorstellung/vol/"
 weight = 690
 
 [[main]]
+name = "Erasmus+"
+identifier = "erasmus"
+url = "/erasmus/"
+weight = 650
+[[main]]
+name = "Überblick"
+identifier = "erasmus-ueberblick"
+parent = "erasmus"
+url = "/erasmus/"
+weight = 651
+[[main]]
+name = "Viareggio 2025"
+identifier = "erasmus-viareggio-2025"
+parent = "erasmus"
+url = "/blog/viareggio-2025/"
+weight = 652
+[[main]]
+name = "Florenz 2025/26"
+identifier = "erasmus-florenz-2025-26"
+parent = "erasmus"
+url = "/erasmus/florenz-2025-26/"
+weight = 653
+
+[[main]]
 name = "Impressum"
 identifier = "impressum"
 url = "/impressum/"

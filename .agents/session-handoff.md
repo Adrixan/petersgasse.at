@@ -70,6 +70,14 @@
   - `https://www.petersgasse.at/` (HTTP 200 OK, serving updated single-line clickable announcement)
   - `https://www.petersgasse.at/blog/tag-der-offenen-tuer-2027/` (HTTP 200 OK, full event details active)
 
+* 2026-10-22: Built the Erasmus+ section from `WG__Erasmus+_Einzelmobilitäten_von_Schüler_innen_(Homepage).zip` (4 student reports from Florenz 2025/26 plus 9 photos).
+  - Menu: "Erasmus+" dropdown (weight 650) with Überblick (`/erasmus/`), Viareggio 2025 (existing blog post) and Florenz 2025/26.
+  - Content: `content/de/Erasmus/_index.md` (overview, OeAD link) and `florenz-2025-26.md` (four reports, light copy edits only: typos, German quotes, paragraph breaks in Mia's text).
+  - Logos per erasmusplus.schule/mediathek (Formulare & Logos): EU emblem "Kofinanziert von der Europäischen Union" plus Erasmus+ logo "Enriching lives, opening minds." without flag; originals from the PAD Dokumentencenter, trimmed and pngquant-optimised in `static/images/erasmus/`. Disclaimer text reused from the Viareggio post.
+  - Templates: `layouts/erasmus/{list,single}.html` append `partials/erasmus-logos.html` automatically to every page in the section; logos sit in a `<section class="post__content">` so the theme's medium-zoom (`div.post__content img`) skips them. Shortcodes `galerie` + `foto` (alt required, dimensions via imageConfig, justified rows via `--ar`).
+  - Photos: auto-oriented, metadata stripped, max 1600 px WebP q80 in `static/images/erasmus/florenz-2025-26/`.
+  - Branches `feature/erasmus-section` pushed in the outer repo (57a786d) and the static subrepo (19bc4dc); not merged, not published. Dev server left running on 127.0.0.1:1313 for review.
+
 ## Current State
 * Date: 2026-10-19
 * Active Branch: `main` (outer repo) and `main` (static subrepo), both pushed.
@@ -77,4 +85,5 @@
 * Production site `https://www.petersgasse.at` live with all changes published. Release had 319 files; remote file count and key file sizes verified, and live homepage returned HTTP 200.
 
 ## Next Steps
+* Erasmus+: after user review merge `feature/erasmus-section` (both repos, `--no-ff`), run `./publish.sh`, verify `/erasmus/` and `/erasmus/florenz-2025-26/` live. Open: disclaimer names EACEA although KA1 school mobilities are granted via the OeAD (confirm wording with the Erasmus coordinator); Mia's first photo shows a glass with a red drink (confirm it is fine for the school site).
 * Standby for upcoming announcements or further website maintenance. The `static/` subrepo still holds uncommitted PDF changes (updated Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, new Journaldienst, Schulvideo files and fonts) awaiting separate review.

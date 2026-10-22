@@ -1,0 +1,6 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- if not $alt -}}{{- errorf "foto: missing alt text for %q in %s" $src .Position -}}{{- end -}}
+{{- $cfg := imageConfig (printf "static%s" $src) -}}
+{{- $ar := div (float $cfg.Width) $cfg.Height -}}
+<img class="galerie__item" style="--ar: {{ printf "%.4f" $ar }}" src="{{ $src }}" alt="{{ $alt }}" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" loading="lazy" decoding="async" />

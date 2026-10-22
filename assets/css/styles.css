@@ -293,3 +293,62 @@ table {
     width: 100%;
   }
 }
+
+/* Erasmus+ photo galleries and funding notice */
+.galerie {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+
+/* --ar (width / height) is set per photo by the foto shortcode: items in a row share one height */
+.galerie__item {
+  flex: var(--ar) 1 calc(var(--ar) * 220px);
+  display: block;
+  width: 0;
+  height: auto;
+  aspect-ratio: var(--ar);
+  margin: 0;
+  border-radius: 6px;
+}
+
+/* flow-root keeps child margins inside the white panels instead of exposing the dark page background */
+.post--erasmus > .post__content {
+  display: flow-root;
+}
+
+.post__content .erasmus-funding {
+  margin: 1.5rem 0 0 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e3e3e3;
+}
+
+.erasmus-funding__logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.erasmus-funding__logos img {
+  height: 56px;
+  width: auto;
+  margin: 0;
+}
+
+.erasmus-funding__disclaimer {
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 600px) {
+  .galerie__item {
+    flex-basis: 100%;
+  }
+
+  .erasmus-funding__logos img {
+    height: 48px;
+  }
+}
