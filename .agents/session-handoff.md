@@ -81,13 +81,22 @@
   - Outer repo: deleted the source ZIP; committed `original-2B6CAE5E-C12D-4587-9570-2C307CD3CD0C.mp4` (21 MB original Pfandsammeln video) at the repo root on user request.
   - Published via `publish.sh`: 126 pages, 336 files uploaded and verified, production rotated. Live HTTP 200 for `/`, `/erasmus/`, `/erasmus/florenz-2025-26/`, both logos, photos and `/Hausordnung.pdf` (130,185 bytes).
 
+* 2026-10-23: Extended the Erasmus+ section from `erasmus/` (einleitungstext, `Gruppenmobilität_Bratislava.zip`, `Weitere_Einträge_für_die_Homepage.zip`).
+  - Overview intro replaced with the accreditation text ("Petersgasse goes Europe", own accreditation since 01.02.2025); "Gruppenmobilität" renamed to "Gruppenmobilitäten".
+  - New `content/de/Erasmus/bratislava-2026.md` (7B at Gymnázium Bilíkova, 27.–30.04.2026, student feedback; light comma/typo fixes only) with one group photo.
+  - The second ZIP held a teacher training (CLIL course, Europass Teachers Academy Dublin, 12.–19.07.2026), not a group mobility; user chose a separate "Fortbildungen" section. New `dublin-2026.md` with 4 photos, teacher names linked to their staff pages.
+  - Menu: Überblick, Viareggio 2025, Bratislava 2026, Florenz 2025/26, Dublin 2026. CSS: lone gallery photo capped at 900 px.
+  - Merged `--no-ff` into `main` in both repos (outer 09be36f, static 7c7b377) and pushed; branches deleted. NOT published yet: awaiting user go. Dev server running on 127.0.0.1:1313.
+  - Source folder `erasmus/` in the repo root is untracked (not committed).
+
 ## Current State
-* Date: 2026-10-22
+* Date: 2026-10-23
 * Active Branch: `main` in the outer repo and the static subrepo, both pushed and in sync with origin.
-* Local Hugo development server stopped (port 1313 free).
-* Production site `https://www.petersgasse.at` live with the Erasmus+ section and new Hausordnung.
+* Local Hugo development server running on 127.0.0.1:1313 for review of the Bratislava/Dublin additions.
+* Production site `https://www.petersgasse.at` still on the 2026-10-22 release (Erasmus+ section with Florenz, new Hausordnung); Bratislava/Dublin not yet published.
 
 ## Next Steps
+* Erasmus+ Bratislava/Dublin: after user go, run `./publish.sh` and verify `/erasmus/bratislava-2026/` and `/erasmus/dublin-2026/` live; decide what to do with the untracked `erasmus/` source folder.
 * SECURITY: `publish.sh` is tracked in the PUBLIC repo `Adrixan/petersgasse.at` and contains the FTP password as a hardcoded default (`FTP_PASS`). Rotate the FTP password at the hoster, remove the default from `publish.sh` (require `.env`, which is gitignored), and decide whether to purge it from git history. Reported to the user 2026-10-22; awaiting decision.
 * The `static/` subrepo still holds uncommitted, already published changes (Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, Journaldienst, Schulvideo files, fonts, Schulvideo posters) awaiting separate review.
 * Open question from the Erasmus+ work: Mia's first photo shows a glass with a red drink; the user published it without objection.
