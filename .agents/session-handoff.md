@@ -93,16 +93,19 @@
   - `content/de/Erasmus/{gruppenmobilitaeten,einzelmobilitaeten,fortbildungen}/` each with `_index.md` (intro, `weight`, `description`, `teaser`, `kategorie` key); reports moved inside. Menu: Überblick, Gruppenmobilitäten, Einzelmobilitäten, Fortbildungen.
   - `layouts/erasmus/list.html` renders subsections (top level) and reports (category level) as cards via `partials/erasmus-cards.html`; category pages also pull in pages from other sections with `erasmus_kategorie = '<kategorie>'` (Viareggio blog post). Reports show an "Alle <Kategorie>" back link. Cards sit in `<section class="post__content">` to avoid medium-zoom.
   - Teasers 600x450 WebP in `static/images/erasmus/teaser/`. Florenz has alias `/erasmus/florenz-2025-26/` (was live). Bratislava/Dublin were never published, no aliases.
-  - Merged `--no-ff` in both repos (outer 2f4d75a, static f504afa), pushed, branches deleted. Still NOT published.
+  - Merged `--no-ff` in both repos (outer 2f4d75a, static f504afa), pushed, branches deleted.
+  - Published 2026-10-23 via `publish.sh`: 354 files uploaded and verified, production rotated. Live HTTP 200 for `/erasmus/`, all three category pages, the Bratislava, Florenz and Dublin reports, `/blog/viareggio-2025/` and the new images; `/erasmus/florenz-2025-26/` redirects to the new Florenz URL; menu shows the four Erasmus+ entries.
 
 ## Current State
 * Date: 2026-10-23
 * Active Branch: `main` in the outer repo and the static subrepo, both pushed and in sync with origin.
-* Local Hugo development server running on 127.0.0.1:1313 for review of the Bratislava/Dublin additions.
-* Production site `https://www.petersgasse.at` still on the 2026-10-22 release (Erasmus+ section with Florenz, new Hausordnung); Bratislava/Dublin not yet published.
+* Local Hugo development server stopped (port 1313 free).
+* Production site `https://www.petersgasse.at` live with the restructured Erasmus+ section (Überblick, Gruppenmobilitäten with Bratislava and Viareggio, Einzelmobilitäten with Florenz, Fortbildungen with Dublin).
 
 ## Next Steps
-* Erasmus+ categories/Bratislava/Dublin: after user go, run `./publish.sh` and verify `/erasmus/gruppenmobilitaeten/bratislava-2026/`, `/erasmus/fortbildungen/dublin-2026/` and the alias `/erasmus/florenz-2025-26/` live; decide what to do with the untracked `erasmus/` source folder.
-* SECURITY: `publish.sh` is tracked in the PUBLIC repo `Adrixan/petersgasse.at` and contains the FTP password as a hardcoded default (`FTP_PASS`). Rotate the FTP password at the hoster, remove the default from `publish.sh` (require `.env`, which is gitignored), and decide whether to purge it from git history. Reported to the user 2026-10-22; awaiting decision.
+* SECURITY: `publish.sh` is tracked in the PUBLIC repo `Adrixan/petersgasse.at` and contains the FTP password as a hardcoded default (`FTP_PASS`). Rotate the FTP password at the hoster, remove the default from `publish.sh` (require `.env`, which is gitignored), and decide whether to purge it from git history. Reported to the user 2026-10-22; still awaiting decision.
+* Untracked source folder `erasmus/` in the repo root (einleitungstext, Bratislava docx/jpg, both ZIPs): user has not decided whether to delete it.
+* Bratislava report: Philipp's feedback mentions Slovakia's "Nähe zu Russland und der korrupten Politik"; published verbatim, flagged to the user for review with the supervising teacher. The text also says the return visit is planned for "Ende Oktober 2026"; update once it has happened.
+* Erasmus+ category intro texts on the three overview pages were written by Claude (no source text); user was asked to proofread.
 * The `static/` subrepo still holds uncommitted, already published changes (Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, Journaldienst, Schulvideo files, fonts, Schulvideo posters) awaiting separate review.
-* Open question from the Erasmus+ work: Mia's first photo shows a glass with a red drink; the user published it without objection.
+* Adding Erasmus+ reports: new Markdown file in the matching `content/de/Erasmus/<kategorie>/` folder with `description` and `teaser` (600x450 WebP in `static/images/erasmus/teaser/`); blog posts join a category via `erasmus_kategorie = '<kategorie>'`.
