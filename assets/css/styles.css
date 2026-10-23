@@ -313,6 +313,13 @@ table {
   border-radius: 6px;
 }
 
+/* a lone photo would otherwise stretch to the full content width */
+.galerie__item:only-child {
+  flex: 0 1 auto;
+  width: 100%;
+  max-width: 900px;
+}
+
 /* flow-root keeps child margins inside the white panels instead of exposing the dark page background */
 .post--erasmus > .post__content {
   display: flow-root;
