@@ -1,10 +1,26 @@
 {{ define "main" }}
+  {{- /* category pages list their own reports plus pages elsewhere (e.g. blog posts) tagged with erasmus_kategorie */ -}}
+  {{- $reports := .RegularPages -}}
+  {{- with .Params.kategorie -}}
+    {{- $reports = $reports | union (where site.RegularPages "Params.erasmus_kategorie" .) -}}
+  {{- end -}}
   <div class="post post--erasmus">
     <div class="post__content">
       <h1>{{ .Title }}</h1>
       {{ .Content }}
     </div>
-    {{/* section, not div: the theme attaches medium-zoom to "div.post__content img", logos must not zoom */}}
+    {{/* section, not div: the theme attaches medium-zoom to "div.post__content img"; cards and logos must not zoom */}}
+    {{ with .Sections.ByWeight }}
+      <section class="post__content">
+        {{ partial "erasmus-cards.html" . }}
+      </section>
+    {{ end }}
+    {{ with $reports.ByDate.Reverse }}
+      <section class="post__content">
+        <h2>Berichte</h2>
+        {{ partial "erasmus-cards.html" . }}
+      </section>
+    {{ end }}
     <section class="post__content">
       {{ partial "erasmus-logos.html" . }}
     </section>

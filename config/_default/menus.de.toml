@@ -189,29 +189,23 @@ parent = "erasmus"
 url = "/erasmus/"
 weight = 651
 [[main]]
-name = "Viareggio 2025"
-identifier = "erasmus-viareggio-2025"
+name = "Gruppenmobilitäten"
+identifier = "erasmus-gruppenmobilitaeten"
 parent = "erasmus"
-url = "/blog/viareggio-2025/"
+url = "/erasmus/gruppenmobilitaeten/"
 weight = 652
 [[main]]
-name = "Bratislava 2026"
-identifier = "erasmus-bratislava-2026"
+name = "Einzelmobilitäten"
+identifier = "erasmus-einzelmobilitaeten"
 parent = "erasmus"
-url = "/erasmus/bratislava-2026/"
+url = "/erasmus/einzelmobilitaeten/"
 weight = 653
 [[main]]
-name = "Florenz 2025/26"
-identifier = "erasmus-florenz-2025-26"
+name = "Fortbildungen"
+identifier = "erasmus-fortbildungen"
 parent = "erasmus"
-url = "/erasmus/florenz-2025-26/"
+url = "/erasmus/fortbildungen/"
 weight = 654
-[[main]]
-name = "Dublin 2026"
-identifier = "erasmus-dublin-2026"
-parent = "erasmus"
-url = "/erasmus/dublin-2026/"
-weight = 655
 
 [[main]]
 name = "Impressum"

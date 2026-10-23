@@ -1,0 +1,15 @@
+{{/* Card grid for Erasmus+ categories or reports. Context: a slice of pages with title, description and optional teaser. */}}
+<ul class="erasmus-cards">
+  {{ range . }}
+    <li class="erasmus-cards__item">
+      <a class="erasmus-cards__link" href="{{ .RelPermalink }}">
+        {{ with .Params.teaser }}
+          {{ $cfg := imageConfig (printf "static%s" .) }}
+          <img src="{{ . }}" alt="" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" loading="lazy" decoding="async" />
+        {{ end }}
+        <span class="erasmus-cards__title">{{ .Title }}</span>
+      </a>
+      {{ with .Description }}<p class="erasmus-cards__text">{{ . }}</p>{{ end }}
+    </li>
+  {{ end }}
+</ul>

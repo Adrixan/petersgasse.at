@@ -2,6 +2,10 @@
 title = 'Erasmus+ Schüler:innenaustausch mit Italien'
 date = 2026-01-07T08:10:33+02:00
 draft = false
+description = 'Die Italienischschüler:innen der 7AB verbrachten im Herbst 2025 eine Woche bei Gastfamilien in Viareggio.'
+teaser = '/images/erasmus/teaser/viareggio-2025.webp'
+# also listed on /erasmus/gruppenmobilitaeten/
+erasmus_kategorie = 'gruppenmobilitaeten'
 +++
 
 ## Gruppenmobilität | 27. September – 4. Oktober 2025

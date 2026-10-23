@@ -2,7 +2,8 @@
 title = 'Die 7B in Bratislava'
 date = 2026-10-23T08:00:00+02:00
 draft = false
-description = 'Gruppenmobilität der 7B an das Gymnázium Bilíkova in Bratislava, April 2026.'
+teaser = '/images/erasmus/teaser/bratislava-2026.webp'
+description = 'Austausch der 7B mit dem Gymnázium Bilíkova in Bratislava im April 2026.'
 +++
 
 ## Gruppenmobilität | 27. – 30. April 2026
