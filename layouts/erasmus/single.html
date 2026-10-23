@@ -3,6 +3,9 @@
     <div class="post__content">
       <h1>{{ .Title }}</h1>
       {{ .Content }}
+      {{ with .Parent }}
+        <p class="erasmus-back"><a href="{{ .RelPermalink }}">Alle {{ .Title }}</a></p>
+      {{ end }}
     </div>
     {{/* section, not div: the theme attaches medium-zoom to "div.post__content img", logos must not zoom */}}
     <section class="post__content">

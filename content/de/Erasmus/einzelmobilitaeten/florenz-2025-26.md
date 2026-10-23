@@ -2,6 +2,8 @@
 title = 'Einzelmobilitäten in Florenz 2025/26'
 date = 2026-10-22T08:00:00+02:00
 draft = false
+teaser = '/images/erasmus/teaser/florenz-2025-26.webp'
+aliases = ['/erasmus/florenz-2025-26/']
 description = 'Vier Schüler:innen berichten von ihrem Erasmus+ Aufenthalt in Florenz.'
 +++
 

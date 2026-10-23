@@ -320,6 +320,59 @@ table {
   max-width: 900px;
 }
 
+/* Erasmus+ category and report cards */
+.post__content .erasmus-cards {
+  list-style: none;
+  margin: 1rem 0 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.75rem;
+}
+
+.erasmus-cards__item {
+  margin: 0;
+  padding: 0;
+}
+
+.erasmus-cards__link {
+  display: block;
+}
+
+.erasmus-cards__link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  margin: 0 0 0.6rem 0;
+  border-radius: 6px;
+  transition: opacity 0.2s ease;
+}
+
+.erasmus-cards__link:hover img,
+.erasmus-cards__link:focus-visible img {
+  opacity: 0.85;
+}
+
+.erasmus-cards__title {
+  display: block;
+  font-weight: 600;
+  font-size: 1.1em;
+  line-height: 1.35;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.post__content .erasmus-cards__text {
+  margin: 0.35rem 0 0 0;
+  line-height: 1.5;
+}
+
+.erasmus-back {
+  margin-top: 2rem;
+}
+
 /* flow-root keeps child margins inside the white panels instead of exposing the dark page background */
 .post--erasmus > .post__content {
   display: flow-root;

@@ -2,6 +2,7 @@
 title = 'Erasmus+-Fortbildung in Dublin'
 date = 2026-10-23T08:00:00+02:00
 draft = false
+teaser = '/images/erasmus/teaser/dublin-2026.webp'
 description = 'Drei Lehrerinnen besuchten im Juli 2026 die Fortbildung „CLIL in Secondary Schools“ in Dublin.'
 +++
 
