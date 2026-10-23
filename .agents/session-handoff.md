@@ -87,7 +87,7 @@
   - The second ZIP held a teacher training (CLIL course, Europass Teachers Academy Dublin, 12.–19.07.2026), not a group mobility; user chose a separate "Fortbildungen" section. New `dublin-2026.md` with 4 photos, teacher names linked to their staff pages.
   - Menu: Überblick, Viareggio 2025, Bratislava 2026, Florenz 2025/26, Dublin 2026. CSS: lone gallery photo capped at 900 px.
   - Merged `--no-ff` into `main` in both repos (outer 09be36f, static 7c7b377) and pushed; branches deleted. NOT published yet: awaiting user go. Dev server running on 127.0.0.1:1313.
-  - Source folder `erasmus/` in the repo root is untracked (not committed).
+  - Source folder `erasmus/` in the repo root was never committed; deleted on user request 2026-10-23.
 
 * 2026-10-23 (later): Restructured Erasmus+ into nested sections on user request.
   - `content/de/Erasmus/{gruppenmobilitaeten,einzelmobilitaeten,fortbildungen}/` each with `_index.md` (intro, `weight`, `description`, `teaser`, `kategorie` key); reports moved inside. Menu: Überblick, Gruppenmobilitäten, Einzelmobilitäten, Fortbildungen.
@@ -104,7 +104,6 @@
 
 ## Next Steps
 * SECURITY: `publish.sh` is tracked in the PUBLIC repo `Adrixan/petersgasse.at` and contains the FTP password as a hardcoded default (`FTP_PASS`). Rotate the FTP password at the hoster, remove the default from `publish.sh` (require `.env`, which is gitignored), and decide whether to purge it from git history. Reported to the user 2026-10-22; still awaiting decision.
-* Untracked source folder `erasmus/` in the repo root (einleitungstext, Bratislava docx/jpg, both ZIPs): user has not decided whether to delete it.
 * Bratislava report: Philipp's feedback mentions Slovakia's "Nähe zu Russland und der korrupten Politik"; published verbatim, flagged to the user for review with the supervising teacher. The text also says the return visit is planned for "Ende Oktober 2026"; update once it has happened.
 * Erasmus+ category intro texts on the three overview pages were written by Claude (no source text); user was asked to proofread.
 * The `static/` subrepo still holds uncommitted, already published changes (Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, Journaldienst, Schulvideo files, fonts, Schulvideo posters) awaiting separate review.
