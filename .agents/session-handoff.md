@@ -96,14 +96,18 @@
   - Merged `--no-ff` in both repos (outer 2f4d75a, static f504afa), pushed, branches deleted.
   - Published 2026-10-23 via `publish.sh`: 354 files uploaded and verified, production rotated. Live HTTP 200 for `/erasmus/`, all three category pages, the Bratislava, Florenz and Dublin reports, `/blog/viareggio-2025/` and the new images; `/erasmus/florenz-2025-26/` redirects to the new Florenz URL; menu shows the four Erasmus+ entries.
 
+* 2026-10-25: Started the WordPress handover (new.petersgasse.at to www). Discovery found the WordPress install compromised (backdoors, SEO spam, rogue admins); contained and cleaned in place. Details, decisions and rollback points live in the private Obsidian notes `Teaching/Website-Relaunch/{Tracker,Decisions}.md`, not in this public repo. Working data (snapshots, tooling, credentials) in the gitignored `.scratch/handover/`.
+  - `publish.sh`: FTP password removed (now only `.env`, gitignored, mode 600); FTPS with TLS session reuse (ProFTPD answers 425 otherwise).
+
 ## Current State
-* Date: 2026-10-23
+* Date: 2026-10-25
 * Active Branch: `main` in the outer repo and the static subrepo, both pushed and in sync with origin.
 * Local Hugo development server stopped (port 1313 free).
 * Production site `https://www.petersgasse.at` live with the restructured Erasmus+ section (Überblick, Gruppenmobilitäten with Bratislava and Viareggio, Einzelmobilitäten with Florenz, Fortbildungen with Dublin).
 
 ## Next Steps
-* SECURITY: `publish.sh` is tracked in the PUBLIC repo `Adrixan/petersgasse.at` and contains the FTP password as a hardcoded default (`FTP_PASS`). Rotate the FTP password at the hoster, remove the default from `publish.sh` (require `.env`, which is gitignored), and decide whether to purge it from git history. Reported to the user 2026-10-22; still awaiting decision.
+* SECURITY: the FTP password removed from `publish.sh` on 2026-10-25 is still in git history and must be rotated in Froxlor by the user (then update `.env`). No history rewrite (user decision 2026-10-25).
+* WordPress handover: waiting for the user's answers in `Teaching/Website-Relaunch/Decisions.md`; then content work (dead links, Erasmus+, news) and the switch.
 * Bratislava report: Philipp's feedback mentions Slovakia's "Nähe zu Russland und der korrupten Politik"; published verbatim, flagged to the user for review with the supervising teacher. The text also says the return visit is planned for "Ende Oktober 2026"; update once it has happened.
 * Erasmus+ category intro texts on the three overview pages were written by Claude (no source text); user was asked to proofread.
 * The `static/` subrepo still holds uncommitted, already published changes (Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, Journaldienst, Schulvideo files, fonts, Schulvideo posters) awaiting separate review.
