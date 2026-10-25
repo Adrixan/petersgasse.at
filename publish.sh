@@ -23,9 +23,14 @@ fi
 
 FTP_HOST="${FTP_HOST:-s1.weirer-it.at}"
 FTP_USER="${FTP_USER:-pet001it}"
-FTP_PASS="${FTP_PASS:-zbvxyuehpd}"
+FTP_PASS="${FTP_PASS:-}"
 FTP_DIR="${FTP_DIR:-petersgasse.at}"
 TARGET_DIR="${TARGET_DIR:-www.petersgasse.at}"
+
+if [[ -z "$FTP_PASS" ]]; then
+  echo "Error: FTP_PASS is not set. Put it into .env (gitignored, mode 600) or the environment." >&2
+  exit 1
+fi
 
 SKIP_BUILD=0
 
@@ -60,7 +65,7 @@ done
 
 echo "=========================================================="
 echo "Publishing petersgasse.at via FTP"
-echo "Target: ftp://${FTP_USER}@${FTP_HOST}/${FTP_DIR}/"
+echo "Target: ftps://${FTP_USER}@${FTP_HOST}/${FTP_DIR}/"
 echo "=========================================================="
 
 # ------------------------------------------------------------------------------
@@ -105,10 +110,12 @@ target_dir_name = os.environ['TARGET_DIR']
 local_public = Path('public')
 
 def get_ftp_connection():
-    f = ftplib.FTP(timeout=45)
+    # Explicit FTPS: credentials and data channel are encrypted
+    f = ftplib.FTP_TLS(timeout=45)
     f.encoding = 'latin-1'
     f.connect(host, 21)
     f.login(user, password)
+    f.prot_p()
     f.sendcmd('TYPE I')
     f.cwd(remote_base)
     return f
