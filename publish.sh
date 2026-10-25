@@ -109,9 +109,17 @@ target_dir_name = os.environ['TARGET_DIR']
 
 local_public = Path('public')
 
+class SessionReuseFTPS(ftplib.FTP_TLS):
+    # ProFTPD refuses data connections (425) unless they reuse the control channel's TLS session
+    def ntransfercmd(self, cmd, rest=None):
+        conn, size = ftplib.FTP.ntransfercmd(self, cmd, rest)
+        if self._prot_p:
+            conn = self.context.wrap_socket(conn, server_hostname=self.host, session=self.sock.session)
+        return conn, size
+
 def get_ftp_connection():
     # Explicit FTPS: credentials and data channel are encrypted
-    f = ftplib.FTP_TLS(timeout=45)
+    f = SessionReuseFTPS(timeout=45)
     f.encoding = 'latin-1'
     f.connect(host, 21)
     f.login(user, password)
