@@ -101,15 +101,17 @@
 
 * 2026-10-27 to 2026-10-29: Incident forensics for the WordPress install finished (private report and findings in the Obsidian notes, not here). Took a fresh DB dump of new.petersgasse.at (gitignored `.scratch/handover/dumps/20261027-1653/`), identical to the clean baseline of 2026-10-25. A temporary download artifact for it was deleted again on user request. No change to the repo code or the live Hugo site.
 
+* 2026-10-29: WordPress handover continued after Peter rotated the hosting credentials and answered the decision sheet. Server-side cleanup and verification done (details in the private Obsidian notes). Versioning moved to a separate private repo `~/code/website-wordpress` (org `BRG-Petersgasse`, not pushed yet). The live Hugo files were verified byte-identical with the local build of 2026-10-23. No change to the Hugo code or the live site.
+
 ## Current State
-* Date: 2026-10-29
+* Date: 2026-10-29 (evening)
 * Active Branch: `main` in the outer repo and the static subrepo, both pushed and in sync with origin.
 * Local Hugo development server stopped (port 1313 free).
 * Production site `https://www.petersgasse.at` live with the restructured Erasmus+ section (Überblick, Gruppenmobilitäten with Bratislava and Viareggio, Einzelmobilitäten with Florenz, Fortbildungen with Dublin).
 
 ## Next Steps
-* SECURITY: the FTP password removed from `publish.sh` on 2026-10-25 is still in git history and must be rotated in Froxlor by the user (then update `.env`). No history rewrite (user decision 2026-10-25).
-* WordPress handover: waiting for the user's credential rotation and answers in `Teaching/Website-Relaunch/Decisions.md` (open task list in `Tracker.md`); then residue cleanup and checksum check (need a go), content work (dead links, Erasmus+, news) and the switch.
+* The FTP password in the git history of `publish.sh` was rotated on 2026-10-29 (`.env` holds the new one); no history rewrite (user decision 2026-10-25).
+* WordPress handover: see `Teaching/Website-Relaunch/Tracker.md` and `~/code/website-wordpress/.agents/session-handoff.md`; next are the write access for content work, the GitHub push of the new repo and decision C2.
 * Bratislava report: Philipp's feedback mentions Slovakia's "Nähe zu Russland und der korrupten Politik"; published verbatim, flagged to the user for review with the supervising teacher. The text also says the return visit is planned for "Ende Oktober 2026"; update once it has happened.
 * Erasmus+ category intro texts on the three overview pages were written by Claude (no source text); user was asked to proofread.
 * The `static/` subrepo still holds uncommitted, already published changes (Infoblatt_Schulpsychologie, deleted Sprechstunden PDFs, Journaldienst, Schulvideo files, fonts, Schulvideo posters) awaiting separate review.
