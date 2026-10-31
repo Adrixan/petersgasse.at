@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+
+# Since the switch of 2026-10-31 www.petersgasse.at runs WordPress (repo BRG-Petersgasse/website-wordpress).
+# This script would replace the production folder, so it must not run any more.
+echo "publish.sh is disabled: www.petersgasse.at runs WordPress since 2026-10-31." >&2
+exit 1
 # ==============================================================================
 # publish.sh - Automated Hugo Publishing Script for BRG Petersgasse
 # ==============================================================================
