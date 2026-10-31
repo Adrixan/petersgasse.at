@@ -103,6 +103,8 @@
 
 * 2026-10-29: WordPress handover continued after Peter rotated the hosting credentials and answered the decision sheet. Server-side cleanup and verification done (details in the private Obsidian notes). Versioning moved to a separate private repo `~/code/website-wordpress` (org `BRG-Petersgasse`, not pushed yet). The live Hugo files were verified byte-identical with the local build of 2026-10-23. No change to the Hugo code or the live site.
 
+* 2026-10-31: www.petersgasse.at runs WordPress now; this Hugo repo is retired and archived read-only (decision C4), `publish.sh` is disabled. The built site stays as a fallback on the server until 2026-11-30. Further work: repo `BRG-Petersgasse/website-wordpress`.
+
 ## Current State
 * Date: 2026-10-29 (evening)
 * Active Branch: `main` in the outer repo and the static subrepo, both pushed and in sync with origin.
